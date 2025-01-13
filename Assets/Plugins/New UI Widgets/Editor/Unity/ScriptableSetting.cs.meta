@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7af3d73b5e3e2348aa89ecacbfd9a11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/Unity/ScriptableSetting.cs
+  uploadId: 711971

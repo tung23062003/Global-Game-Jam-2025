@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aeb64a7c634915a43b6caf27d54e8f43
+labels:
+- UiwidgetsPrefab
+- Tabs
+- UiwidgetsTabsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Tabs.prefab
+  uploadId: 711971

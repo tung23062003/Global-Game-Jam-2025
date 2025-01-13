@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d3f650dbc0b674459c903bab0155c44
+labels:
+- TabsIcons
+- UiwidgetsPrefab
+- UiwidgetsTabsIconsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/TabsIcons.prefab
+  uploadId: 711971

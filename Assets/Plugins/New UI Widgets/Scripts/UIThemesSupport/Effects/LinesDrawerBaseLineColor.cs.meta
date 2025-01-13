@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5943ed512f1480549b69f9b3ee6c297f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/UIThemesSupport/Effects/LinesDrawerBaseLineColor.cs
+  uploadId: 711971

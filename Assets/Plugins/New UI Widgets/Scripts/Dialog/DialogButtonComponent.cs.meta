@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc945e893f3db4146a7cdf2072f97def
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Dialog/DialogButtonComponent.cs
+  uploadId: 711971

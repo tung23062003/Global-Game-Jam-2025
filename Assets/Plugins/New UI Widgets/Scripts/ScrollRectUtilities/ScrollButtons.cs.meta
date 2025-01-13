@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d117e37e6113a044d89b5954bda7168b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ScrollRectUtilities/ScrollButtons.cs
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8c2716d17b65844eb73de35a3514416
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/ListViewCustomSample/ListViewCustomSample.cs
+  uploadId: 711971

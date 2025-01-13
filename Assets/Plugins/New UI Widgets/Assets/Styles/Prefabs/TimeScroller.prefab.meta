@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df9665328e702a94c89670b08038f66a
+labels:
+- TimeScroller
+- UiwidgetsTimeScrollerPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/TimeScroller.prefab
+  uploadId: 711971

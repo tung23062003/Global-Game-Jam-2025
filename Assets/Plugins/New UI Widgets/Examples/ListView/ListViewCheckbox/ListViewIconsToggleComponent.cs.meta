@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 586a908b27f65ce498a21b1954bf00c3
+timeCreated: 1605714171
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/ListViewCheckbox/ListViewIconsToggleComponent.cs
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 275c3a5e90f4d5843bf0576651b0c069
+labels:
+- DateScroller
+- UiwidgetsDateScrollerPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/DateScroller.prefab
+  uploadId: 711971

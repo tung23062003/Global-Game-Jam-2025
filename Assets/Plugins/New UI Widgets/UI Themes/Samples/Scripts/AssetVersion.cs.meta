@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc25474c1dddc1b46bec8603087fca2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Samples/Scripts/AssetVersion.cs
+  uploadId: 711971

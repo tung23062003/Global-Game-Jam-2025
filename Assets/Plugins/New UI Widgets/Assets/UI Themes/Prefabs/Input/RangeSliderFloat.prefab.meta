@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f3d17ca6d67e044429bf0d1a9c07996b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Input/RangeSliderFloat.prefab
+  uploadId: 711971

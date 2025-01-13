@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cd6a4c902192574e94b10f364121e3e
+labels:
+- RangeSliderFloatVertical
+- UiwidgetsPrefab
+- UiwidgetsRangeSliderFloatVerticalPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/RangeSliderFloatVertical.prefab
+  uploadId: 711971

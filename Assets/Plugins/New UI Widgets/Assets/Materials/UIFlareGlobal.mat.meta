@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9fe77ae922bef5448ad43661d5b48cae
+timeCreated: 1603400190
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Materials/UIFlareGlobal.mat
+  uploadId: 711971

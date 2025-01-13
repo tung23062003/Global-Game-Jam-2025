@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c69b98bf0eb7930438b18042a9fcc642
+timeCreated: 1474299406
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/TMProSupport/Scripts/Utilities/InputFieldTMProProxy.cs
+  uploadId: 711971

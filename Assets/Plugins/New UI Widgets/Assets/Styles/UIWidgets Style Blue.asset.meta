@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 329a51b283b91654fbb8ee16756b4438
+labels:
+- UiwidgetsStyleBlueAsset
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/UIWidgets Style Blue.asset
+  uploadId: 711971

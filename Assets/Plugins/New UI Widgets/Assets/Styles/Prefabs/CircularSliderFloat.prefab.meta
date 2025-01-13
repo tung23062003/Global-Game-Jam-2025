@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d2c69717f6d06964b906597236b96d1a
+timeCreated: 1622569008
+licenseType: Store
+labels:
+- CircularSliderFloat
+- UiwidgetsPrefab
+- UiwidgetsCircularSliderFloatPrefab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/CircularSliderFloat.prefab
+  uploadId: 711971

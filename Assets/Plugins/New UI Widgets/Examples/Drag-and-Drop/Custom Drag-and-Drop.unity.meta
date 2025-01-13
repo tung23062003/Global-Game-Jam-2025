@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bdb5d366bed3b02419e391bbe54102a9
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Drag-and-Drop/Custom Drag-and-Drop.unity
+  uploadId: 711971

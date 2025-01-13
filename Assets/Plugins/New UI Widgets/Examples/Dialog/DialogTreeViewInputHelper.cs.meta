@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa8f219b088115941be95306a21dd293
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Dialog/DialogTreeViewInputHelper.cs
+  uploadId: 711971

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bcaf99659d4d2c248a89215a20f2a774
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/TasksView/Tasks.unity
+  uploadId: 711971

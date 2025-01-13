@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc8faceb90ed03e48863e1eac998fdc6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Shops/JRPGShop/TraderTreeView.cs
+  uploadId: 711971

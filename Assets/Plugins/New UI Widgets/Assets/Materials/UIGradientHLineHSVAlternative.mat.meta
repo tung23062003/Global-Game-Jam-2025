@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2315751f268faac41806eecdab9dd377
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Materials/UIGradientHLineHSVAlternative.mat
+  uploadId: 711971

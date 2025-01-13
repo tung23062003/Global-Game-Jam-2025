@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4495de215ea5d5f4bbb9876faff9502a
+labels:
+- UiwidgetsPrefab
+- TreeView
+- UiwidgetsTreeViewPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/TreeView.prefab
+  uploadId: 711971

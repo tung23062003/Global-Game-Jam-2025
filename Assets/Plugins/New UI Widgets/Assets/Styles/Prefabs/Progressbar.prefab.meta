@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71676213e2f58b440a08ff2e775bb9d7
+labels:
+- Progressbar
+- UiwidgetsProgressbarPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Progressbar.prefab
+  uploadId: 711971

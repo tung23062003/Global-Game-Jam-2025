@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b16e9ad2938f530418924f2c0f51b5b1
+labels:
+- UiwidgetsPrefab
+- PickerInt
+- UiwidgetsPickerIntPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/PickerIntTemplate.prefab
+  uploadId: 711971

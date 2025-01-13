@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ec8ff8b655020e4fbed0b4f1602beb4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Editor/Theme/ThemeInspector.cs
+  uploadId: 711971

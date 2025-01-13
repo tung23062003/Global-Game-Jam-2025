@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61a98c0f8b730f34791babfb1b95e8db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/ListViewIcons.prefab
+  uploadId: 711971

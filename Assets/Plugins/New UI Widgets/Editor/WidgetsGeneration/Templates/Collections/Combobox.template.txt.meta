@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 758c905bf0d95c24dac3bdc11ff7c24b
+labels:
+- UiwidgetsComboboxScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Collections/Combobox.template.txt
+  uploadId: 711971

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb5c3b8fed801a44d85fe089664ad238
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Core/UIWidgetsMonoBehaviour.cs
+  uploadId: 711971

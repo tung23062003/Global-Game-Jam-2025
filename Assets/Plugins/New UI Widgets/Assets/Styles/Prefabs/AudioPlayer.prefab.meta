@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d46f9b3ff4727d94bb9385aa5f66c549
+labels:
+- AudioPlayer
+- UiwidgetsPrefab
+- UiwidgetsAudioPlayerPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/AudioPlayer.prefab
+  uploadId: 711971

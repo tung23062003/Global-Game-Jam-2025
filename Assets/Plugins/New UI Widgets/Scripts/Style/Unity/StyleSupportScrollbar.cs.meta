@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64dbab7775f0bac4bac45f82af2a5a64
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Style/Unity/StyleSupportScrollbar.cs
+  uploadId: 711971

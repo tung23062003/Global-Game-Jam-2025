@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8f1b3e52d3aa5d745b6e523f18d15207
+labels:
+- UiwidgetsPickerListViewScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Dialogs/PickerListView.template.txt
+  uploadId: 711971

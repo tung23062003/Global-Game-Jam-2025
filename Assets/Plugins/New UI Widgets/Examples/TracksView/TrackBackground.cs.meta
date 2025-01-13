@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: add5c1f2d41c96f478fb8515f60f1c1c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TracksView/TrackBackground.cs
+  uploadId: 711971

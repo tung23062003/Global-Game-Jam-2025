@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: feb18e3100b6a714a845aa8ed0b359a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/Connector/MultipleConnector/MultipleConnectorSpriteSetter.cs
+  uploadId: 711971

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0625c2c33bcd897429af9c3a84a10015
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/RangeSlider/TimeRangeSlider/TimeRangeSlider.unity
+  uploadId: 711971

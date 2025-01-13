@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eba586813838af74d8de39301ad8c228
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Containers/TabsSlider.prefab
+  uploadId: 711971

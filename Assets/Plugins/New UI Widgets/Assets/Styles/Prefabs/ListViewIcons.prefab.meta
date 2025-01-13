@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d4e20bd17f86db4982314aa204b3c1e
+labels:
+- ListViewIcons
+- UiwidgetsListViewIconsPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ListViewIcons.prefab
+  uploadId: 711971

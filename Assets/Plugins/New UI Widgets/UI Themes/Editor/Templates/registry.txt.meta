@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc4be8de7089c794ba3c3c9f0c21c29d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Editor/Templates/registry.txt
+  uploadId: 711971

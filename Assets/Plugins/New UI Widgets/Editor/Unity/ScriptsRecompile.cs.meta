@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3843b7844465aee42aaa5c7c20a18d9c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/Unity/ScriptsRecompile.cs
+  uploadId: 711971

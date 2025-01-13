@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72421079ef1d4a84da293428b3f65741
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TreeView/TreeViewToggleAnimation.unity
+  uploadId: 711971

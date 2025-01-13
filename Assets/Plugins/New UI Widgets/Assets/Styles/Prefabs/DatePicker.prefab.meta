@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72b8865e6c7cc6246822edeaa2384e02
+labels:
+- UiwidgetsPrefab
+- DatePicker
+- UiwidgetsDatePickerPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/DatePicker.prefab
+  uploadId: 711971

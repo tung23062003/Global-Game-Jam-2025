@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 70d4a5c17579cab478be77b938613e7f
+timeCreated: 1433397674
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Combobox/TestCombobox.cs
+  uploadId: 711971

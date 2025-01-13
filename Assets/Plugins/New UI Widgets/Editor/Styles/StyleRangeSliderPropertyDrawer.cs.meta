@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfcebf862b7652a4c955c2adb4c14031
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/Styles/StyleRangeSliderPropertyDrawer.cs
+  uploadId: 711971

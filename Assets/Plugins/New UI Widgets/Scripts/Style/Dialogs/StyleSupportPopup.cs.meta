@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8b4d44b5ba8fab45b16e6fedea5f660
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Style/Dialogs/StyleSupportPopup.cs
+  uploadId: 711971

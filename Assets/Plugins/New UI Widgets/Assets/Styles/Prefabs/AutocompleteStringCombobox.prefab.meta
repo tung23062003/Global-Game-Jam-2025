@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46f89daa8431af6498802c890e2cc473
+labels:
+- AutocompleteStringCombobox
+- UiwidgetsPrefab
+- UiwidgetsAutocompleteStringComboboxPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/AutocompleteStringCombobox.prefab
+  uploadId: 711971

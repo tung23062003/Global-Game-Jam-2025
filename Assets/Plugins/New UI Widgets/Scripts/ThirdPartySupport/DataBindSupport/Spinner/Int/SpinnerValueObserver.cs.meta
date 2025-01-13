@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: af36fd67f147f7b42bcb9cf9a18f4b7e
+timeCreated: 1520700057
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/Spinner/Int/SpinnerValueObserver.cs
+  uploadId: 711971

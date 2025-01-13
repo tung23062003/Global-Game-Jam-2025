@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65e7afa42eb2577488496e86b2baa4f2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/GroupedListView/TestGroupedListView.cs
+  uploadId: 711971

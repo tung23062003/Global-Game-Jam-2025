@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: caab33483b7d64d47b0b75fda7a9cdc1
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TileView/TileView.unity
+  uploadId: 711971

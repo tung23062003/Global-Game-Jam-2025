@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a05adb8d10c9f0341a994ee8ca1fa297
+timeCreated: 1614878292
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/NestedListView/NestedListView.unity
+  uploadId: 711971

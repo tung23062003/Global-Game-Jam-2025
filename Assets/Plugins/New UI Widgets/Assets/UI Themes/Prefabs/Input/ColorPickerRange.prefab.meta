@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2ab19fb6f694e247a7e63fa33d531a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Input/ColorPickerRange.prefab
+  uploadId: 711971

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2d3b9751d03aa95499aaaf5881b3489a
+timeCreated: 1520699791
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/CenteredSlider/Vertical/CenteredSliderVerticalValueSetter.cs
+  uploadId: 711971

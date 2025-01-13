@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8bf9faf5ea03f74480f588c21bc4bf4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/ListViewEnum.prefab
+  uploadId: 711971

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 39b137aa840da9640a143a44538f0bb7
+labels:
+- UiwidgetsTileViewTemplatePrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Templates/TileViewTemplate.prefab
+  uploadId: 711971

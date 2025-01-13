@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 90eeaf1ce6e52c44eb5d28f76dd1f3b6
+timeCreated: 1520699765
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/CenteredSlider/Horizontal/CenteredSliderValueMaxSetter.cs
+  uploadId: 711971

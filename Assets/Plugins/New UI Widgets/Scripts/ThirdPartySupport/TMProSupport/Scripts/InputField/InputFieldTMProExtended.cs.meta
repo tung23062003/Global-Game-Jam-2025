@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fe7552741dd72cf458e1ed1a8c857f1b
+timeCreated: 1544718726
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/TMProSupport/Scripts/InputField/InputFieldTMProExtended.cs
+  uploadId: 711971

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2804c388514f89648963a7f2b4af6d31
+labels:
+- ComboboxIcons
+- UiwidgetsComboboxIconsMultiselectPrefab
+- UiwidgetsPrefab
+- Combobox
+- Multiselect
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ComboboxIconsMultiselect.prefab
+  uploadId: 711971

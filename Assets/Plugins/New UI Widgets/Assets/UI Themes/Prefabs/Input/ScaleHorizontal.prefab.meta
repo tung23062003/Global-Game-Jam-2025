@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba04233e2b1a2624e989be311a25d84f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Input/ScaleHorizontal.prefab
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 238c652586a563b4e9459d421539b86b
+labels:
+- UiwidgetsPrefab
+- ListViewInt
+- UiwidgetsListViewIntPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ListViewInt.prefab
+  uploadId: 711971

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c4a4bafa3d453449947c0c6fe927ea3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Editor/Theme/ThemeWarningBlockView.cs
+  uploadId: 711971

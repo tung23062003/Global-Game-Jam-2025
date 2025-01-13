@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8a63bb2589ef8743bbadf0f7aade64c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ScrollRectUtilities/PaginatorView.cs
+  uploadId: 711971

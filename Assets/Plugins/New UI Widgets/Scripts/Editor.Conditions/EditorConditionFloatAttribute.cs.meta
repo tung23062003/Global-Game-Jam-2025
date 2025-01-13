@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c0d0abeb7b496f4d8f38fb5944909be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Editor.Conditions/EditorConditionFloatAttribute.cs
+  uploadId: 711971

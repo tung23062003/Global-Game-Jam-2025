@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8e305f6253c19044f939d66c404ddde8
+timeCreated: 1620128647
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Connector/ILineBuilder.cs
+  uploadId: 711971

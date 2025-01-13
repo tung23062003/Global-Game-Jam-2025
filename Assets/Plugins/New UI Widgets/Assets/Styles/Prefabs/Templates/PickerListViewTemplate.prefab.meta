@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 088ff5f48f87fab47aebd9ae62b821e4
+labels:
+- UiwidgetsPickerListViewTemplatePrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Templates/PickerListViewTemplate.prefab
+  uploadId: 711971

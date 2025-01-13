@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8be3e66b21a4bf8489e41fda2bda8781
+labels:
+- UiwidgetsI2LocalizationRecompilationStatus
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/I2LocalizationSupport/recompilation.status
+  uploadId: 711971

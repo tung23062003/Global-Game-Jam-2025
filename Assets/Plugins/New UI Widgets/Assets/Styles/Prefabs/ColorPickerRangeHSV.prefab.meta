@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0a077ae6c28d8246a5b812dc3045586
+labels:
+- Uiwidgets
+- UiwidgetsPrefab
+- UiwidgetsColorPickerRangeHSVPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ColorPickerRangeHSV.prefab
+  uploadId: 711971

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 957c0d1dd4a2c8c48a6d11c43386ff46
+labels:
+- UiwidgetsPrefabGeneratorScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Scene/PrefabGenerator.template.txt
+  uploadId: 711971

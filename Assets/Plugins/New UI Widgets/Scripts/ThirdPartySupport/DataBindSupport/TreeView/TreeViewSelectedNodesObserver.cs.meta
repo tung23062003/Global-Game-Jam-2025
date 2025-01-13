@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ff03c7b7acfdd8e49b77bafa90d6fe46
+timeCreated: 1520698172
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/TreeView/TreeViewSelectedNodesObserver.cs
+  uploadId: 711971

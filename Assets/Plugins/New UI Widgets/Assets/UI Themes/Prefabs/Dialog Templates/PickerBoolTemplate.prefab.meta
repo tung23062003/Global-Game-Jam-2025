@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6956ecba94b5634c9a02b547b3b4416
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Dialog Templates/PickerBoolTemplate.prefab
+  uploadId: 711971

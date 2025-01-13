@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ffaecb19b8d6d3d4e8b2c75ac200925e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/EasyLayout/HexLayoutBuilderEditor.cs
+  uploadId: 711971

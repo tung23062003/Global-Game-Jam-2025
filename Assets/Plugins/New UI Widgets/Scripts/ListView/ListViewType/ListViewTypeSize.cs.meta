@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 788e5b090b3fd5a42ac414df63847567
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/ListViewType/ListViewTypeSize.cs
+  uploadId: 711971

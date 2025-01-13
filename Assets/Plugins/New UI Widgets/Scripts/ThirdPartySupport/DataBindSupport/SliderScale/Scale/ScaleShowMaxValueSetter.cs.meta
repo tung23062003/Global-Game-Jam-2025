@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a7184767e6b64e649816d0d9e9c5e551
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/SliderScale/Scale/ScaleShowMaxValueSetter.cs
+  uploadId: 711971

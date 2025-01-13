@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 032d8a3a5de40f74a8ed02614716bdfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/CircularSlider/Float/CircularSliderFloatMaxValueSetter.cs
+  uploadId: 711971

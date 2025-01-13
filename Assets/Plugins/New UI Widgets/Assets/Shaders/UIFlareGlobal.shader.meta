@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7f05caa360002a40a4c7e535ee77c23
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIFlareGlobal.shader
+  uploadId: 711971

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 53e642abb2e77dc478a6549ac666fe6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/GroupedListView/GroupedListViewSelector.cs
+  uploadId: 711971

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: adc9e728fdb3eac46a6a66d0b7164807
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Async/TestConfirm.unity
+  uploadId: 711971

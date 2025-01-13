@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b38dcc1b128559c4db6071b4006762d6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Gradient/Gradient.unity
+  uploadId: 711971

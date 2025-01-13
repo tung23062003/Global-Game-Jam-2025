@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1930b7421b0f1344e982c51852d7ae03
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Containers/SliderVertical.prefab
+  uploadId: 711971

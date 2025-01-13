@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0e9d7f8cfce93374bac1e4535970089e
+timeCreated: 1520700088
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/Switch/SwitchIsOnSetter.cs
+  uploadId: 711971

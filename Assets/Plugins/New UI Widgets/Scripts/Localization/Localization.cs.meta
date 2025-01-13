@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8d1e8758d46c0db419781b23554c9e48
+timeCreated: 1615054470
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Localization/Localization.cs
+  uploadId: 711971

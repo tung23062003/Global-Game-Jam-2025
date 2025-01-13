@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d0d65f72bcb9fd419604d15f1d84af7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Effects/Grayscale.unity
+  uploadId: 711971

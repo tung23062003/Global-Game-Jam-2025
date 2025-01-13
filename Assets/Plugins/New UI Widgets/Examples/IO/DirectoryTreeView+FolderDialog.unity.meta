@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e980bb71fd474a6418da711eeac009f3
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/IO/DirectoryTreeView+FolderDialog.unity
+  uploadId: 711971

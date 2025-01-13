@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fbd5e9afbbb11084d88a66c6b04695fb
+labels:
+- UiwidgetsTreeViewScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Collections/TreeView.template.txt
+  uploadId: 711971

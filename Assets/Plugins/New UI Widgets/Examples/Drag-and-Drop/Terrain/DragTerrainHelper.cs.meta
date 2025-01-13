@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5ffa1fd4d7cac6548890473a86d0bbbd
+timeCreated: 1630439434
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Drag-and-Drop/Terrain/DragTerrainHelper.cs
+  uploadId: 711971

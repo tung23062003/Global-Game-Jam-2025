@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9728ac020ae418947aae8cac5b51fc98
+timeCreated: 1520699739
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/Calendar/CalendarDateProvider.cs
+  uploadId: 711971

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7d638f75da870e4588742d76afc4c4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Containers/TabsLeft.prefab
+  uploadId: 711971

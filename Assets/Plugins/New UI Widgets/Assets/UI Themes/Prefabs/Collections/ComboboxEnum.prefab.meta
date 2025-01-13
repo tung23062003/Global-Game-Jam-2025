@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6cd7b388f5e47694fbca2f2e21eec485
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/ComboboxEnum.prefab
+  uploadId: 711971

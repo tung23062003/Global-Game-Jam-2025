@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 748517d6e2b271f4da2c06c8d1b40763
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Dialog Templates/PickerIconsTemplate.prefab
+  uploadId: 711971

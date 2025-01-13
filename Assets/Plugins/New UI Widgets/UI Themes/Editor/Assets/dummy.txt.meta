@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6eda83e1b620af24c8e71118b78affd3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Editor/Assets/dummy.txt
+  uploadId: 711971

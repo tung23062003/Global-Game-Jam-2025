@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09b0763ce7466a148884899acff2ac54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/ComboboxString.prefab
+  uploadId: 711971

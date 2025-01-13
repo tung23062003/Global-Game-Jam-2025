@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 11f4f40ebb54b9d4c9edb5dbc6dc06dd
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Draggable/Draggable+Resizable+Rotatable.unity
+  uploadId: 711971

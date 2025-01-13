@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5bc69ae7112f3044ae6f1cf423f97c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/AutocompleteStringCombobox.prefab
+  uploadId: 711971

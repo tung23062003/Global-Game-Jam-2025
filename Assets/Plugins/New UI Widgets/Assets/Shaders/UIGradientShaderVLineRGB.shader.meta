@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 17a2e0aa196358945b19fea932ab403a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIGradientShaderVLineRGB.shader
+  uploadId: 711971

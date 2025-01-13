@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3caa810a659a3a642b9bd3034d0032a2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Tabs/TabsSlider.unity
+  uploadId: 711971

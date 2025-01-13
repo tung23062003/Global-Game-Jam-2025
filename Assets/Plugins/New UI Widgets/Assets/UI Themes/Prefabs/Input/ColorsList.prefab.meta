@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f9dca7ac42848d4e8429da63c2f67d2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Input/ColorsList.prefab
+  uploadId: 711971

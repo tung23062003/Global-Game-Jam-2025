@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2b5f679a4c784414b91194e504d21ac5
+timeCreated: 1604598323
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/Events/ListViewItemPointerEvent.cs
+  uploadId: 711971

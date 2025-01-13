@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f8a16ae95238884d8ef1e6ed44c22c9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/ListViewType/TileViewTypeFixed.cs
+  uploadId: 711971

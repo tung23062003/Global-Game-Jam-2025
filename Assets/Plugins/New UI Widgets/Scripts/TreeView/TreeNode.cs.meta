@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62fe9798d6a6e88489c1c4a53bdb3a8c
+labels:
+- TreeNode
+- Uiwidgets
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/TreeView/TreeNode.cs
+  uploadId: 711971

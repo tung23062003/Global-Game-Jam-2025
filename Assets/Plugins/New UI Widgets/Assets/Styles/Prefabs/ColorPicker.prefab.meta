@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e933d52c9fa68304db338a7a2a883267
+labels:
+- Color Picker
+- ColorPicker
+- UiwidgetsColorPickerPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ColorPicker.prefab
+  uploadId: 711971

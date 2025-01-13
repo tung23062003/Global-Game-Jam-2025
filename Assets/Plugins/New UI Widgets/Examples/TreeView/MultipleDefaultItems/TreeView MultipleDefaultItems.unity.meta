@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3e2790ff82822844abc323e0ed8e2f0c
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TreeView/MultipleDefaultItems/TreeView
+    MultipleDefaultItems.unity
+  uploadId: 711971

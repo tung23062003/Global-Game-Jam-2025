@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0c2d252de4b00fe4fa354f1cfa90e1ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Drag-and-Drop/TreeNodeDropType.cs
+  uploadId: 711971

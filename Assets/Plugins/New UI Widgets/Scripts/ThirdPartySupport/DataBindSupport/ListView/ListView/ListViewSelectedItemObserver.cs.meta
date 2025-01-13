@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f27ec451a57b5774eb06293bcd5dee20
+timeCreated: 1520697391
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/ListView/ListView/ListViewSelectedItemObserver.cs
+  uploadId: 711971

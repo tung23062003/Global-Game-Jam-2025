@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 117859af4570fec48b967908ecfe2c75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Default UI Theme.asset
+  uploadId: 711971

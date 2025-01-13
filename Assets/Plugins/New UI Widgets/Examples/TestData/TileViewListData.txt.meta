@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e3bf8df162d4e834d8cfa6c4e9072c88
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TestData/TileViewListData.txt
+  uploadId: 711971

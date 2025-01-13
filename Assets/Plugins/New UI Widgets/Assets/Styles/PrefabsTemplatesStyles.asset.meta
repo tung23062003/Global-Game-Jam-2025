@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6e48cc01edc8c384c8986c32d6343834
+labels:
+- UiwidgetsAsset
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/PrefabsTemplatesStyles.asset
+  uploadId: 711971

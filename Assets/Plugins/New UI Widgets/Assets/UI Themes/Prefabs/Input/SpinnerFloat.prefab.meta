@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf2f0452dc66d704ea7b0fd4c01ef259
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Input/SpinnerFloat.prefab
+  uploadId: 711971

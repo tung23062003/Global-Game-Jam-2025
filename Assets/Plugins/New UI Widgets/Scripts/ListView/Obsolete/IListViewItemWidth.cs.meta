@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28ed8a429d5e183429fb7e59cdcde68f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/Obsolete/IListViewItemWidth.cs
+  uploadId: 711971

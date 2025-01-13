@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d83b17789aa2d894db342ab4c818c65b
+labels:
+- TabsLeft
+- UiwidgetsPrefab
+- UiwidgetsTabsLeftPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/TabsLeft.prefab
+  uploadId: 711971

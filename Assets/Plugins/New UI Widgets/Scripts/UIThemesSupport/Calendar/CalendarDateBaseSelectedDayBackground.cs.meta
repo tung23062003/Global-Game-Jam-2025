@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2e7fc08ad2099e40a1f4168429d2384
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/UIThemesSupport/Calendar/CalendarDateBaseSelectedDayBackground.cs
+  uploadId: 711971

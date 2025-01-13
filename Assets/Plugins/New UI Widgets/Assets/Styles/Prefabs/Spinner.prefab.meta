@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d1ade6fb50552a4ab6f1f4deeb26272
+labels:
+- UiwidgetsPrefab
+- Spinner
+- UiwidgetsSpinnerPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Spinner.prefab
+  uploadId: 711971

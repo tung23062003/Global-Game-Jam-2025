@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58e9813852fd5ba4e908e83f37b73e8e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Rotatable/Rotatable.unity
+  uploadId: 711971

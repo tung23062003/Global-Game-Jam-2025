@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d66062aa1e390314d8b50357a5282510
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Table/SimpleTable/SimpleTableComponent.cs
+  uploadId: 711971

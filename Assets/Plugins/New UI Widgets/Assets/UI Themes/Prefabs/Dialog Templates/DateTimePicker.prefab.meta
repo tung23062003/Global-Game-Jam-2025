@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f15694e2d72bdb438ef2116f90a44fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Dialog Templates/DateTimePicker.prefab
+  uploadId: 711971

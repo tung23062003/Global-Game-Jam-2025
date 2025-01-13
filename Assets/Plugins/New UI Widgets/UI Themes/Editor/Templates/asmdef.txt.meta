@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ffd01842aa56fd4488a4408d86519ce
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Editor/Templates/asmdef.txt
+  uploadId: 711971

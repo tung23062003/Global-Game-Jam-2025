@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97854714e2c6696469097512c0fe697b
+labels:
+- UiwidgetsDragInfoTemplatePrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Templates/DragInfoTemplate.prefab
+  uploadId: 711971

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 61eab2358de7b78408e56e8955c295b0
+labels:
+- UiwidgetsComparersScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/CollectionsSupport/Comparers.template.txt
+  uploadId: 711971

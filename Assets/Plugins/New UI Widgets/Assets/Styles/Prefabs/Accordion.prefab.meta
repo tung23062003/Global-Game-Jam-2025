@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ebe13f12b4a9014aa8e72af3a3e0518
+labels:
+- Accordion
+- UiwidgetsAccordionPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Accordion.prefab
+  uploadId: 711971

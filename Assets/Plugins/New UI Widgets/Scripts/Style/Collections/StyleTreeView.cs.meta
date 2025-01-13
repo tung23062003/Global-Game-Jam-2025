@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d4351d690ea69f4f921ec886363018e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Style/Collections/StyleTreeView.cs
+  uploadId: 711971

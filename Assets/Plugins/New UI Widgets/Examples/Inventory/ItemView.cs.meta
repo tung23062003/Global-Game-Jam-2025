@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 63bf2451ff519c54b95f484b32389392
+timeCreated: 1638390311
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Inventory/ItemView.cs
+  uploadId: 711971

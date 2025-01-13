@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca45afdf33a715349988f1cfb1c6ed10
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TileView/LinearGroupedTileView/LinearGroupedTileViewWithHeader.unity
+  uploadId: 711971

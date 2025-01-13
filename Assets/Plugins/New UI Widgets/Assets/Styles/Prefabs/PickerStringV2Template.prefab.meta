@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e84868eac5b08545864cfb1a30882d9
+labels:
+- UiwidgetsPrefab
+- PickerStringV2
+- UiwidgetsPickerStringV2Prefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/PickerStringV2Template.prefab
+  uploadId: 711971

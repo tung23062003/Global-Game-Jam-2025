@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f9075c87b19d377449fdea58cef0dc06
+timeCreated: 1620128637
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Connector/LineBuilder.cs
+  uploadId: 711971

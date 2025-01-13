@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 531218da7c9b70143a39333970f266a6
+timeCreated: 1622986830
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/SliderScale/SliderScale.unity
+  uploadId: 711971

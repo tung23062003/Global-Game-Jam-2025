@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc0b35ddbf6c3e441850aa9459241a15
+labels:
+- UiwidgetsSynchronizerScriptTemplate
+timeCreated: 1520685705
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/WidgetGeneration/DataBindSupport/Synchronizer.template.txt
+  uploadId: 711971

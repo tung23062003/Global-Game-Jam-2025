@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa5cc4b43960b5943b695d9e59eb64c5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Style/Input/StyleSupportColorPicker.cs
+  uploadId: 711971

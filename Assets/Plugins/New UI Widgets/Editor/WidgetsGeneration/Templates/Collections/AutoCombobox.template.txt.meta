@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d05e55267b2b120409a78b0feb94ba6d
+timeCreated: 1615486681
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Collections/AutoCombobox.template.txt
+  uploadId: 711971

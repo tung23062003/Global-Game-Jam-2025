@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7951d0ed20953984a9669cc52732e5bc
+labels:
+- Uiwidgets
+- UiwidgetsPrefab
+- UiwidgetsTimePickerPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/TimePicker.prefab
+  uploadId: 711971

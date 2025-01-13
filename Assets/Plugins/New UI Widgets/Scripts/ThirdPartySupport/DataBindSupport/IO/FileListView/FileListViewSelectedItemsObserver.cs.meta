@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 212ccf6f61c144147be676a1be34a4b3
+timeCreated: 1520697793
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/IO/FileListView/FileListViewSelectedItemsObserver.cs
+  uploadId: 711971

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 993d062021d9b5642a114fd0c53e709b
+labels:
+- UiwidgetsTreeGraphTemplatePrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Templates/TreeGraphTemplate.prefab
+  uploadId: 711971

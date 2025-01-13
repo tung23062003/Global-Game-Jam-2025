@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e79eaa3835d0c04088a10f3bae8cbdb
+labels:
+- ListViewString
+- UiwidgetsListViewStringHeightPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ListViewStringHeight.prefab
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 421b6ec7f0b74f248abe1b048b4f7663
+labels:
+- UiwidgetsPrefab
+- PickerIcons
+- UiwidgetsPickerIconsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/PickerIconsTemplate.prefab
+  uploadId: 711971

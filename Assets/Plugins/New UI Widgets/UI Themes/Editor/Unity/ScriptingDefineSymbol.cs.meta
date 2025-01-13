@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ce2dc59bf8cfb24459bcdc1c303b9ddd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Editor/Unity/ScriptingDefineSymbol.cs
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c514b32d477d7ea45930db8e93971deb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/ListViewInt/ListViewIntComponent.cs
+  uploadId: 711971

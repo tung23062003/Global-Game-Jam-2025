@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 803f0e6a989860548b8a9bce711df828
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/TMProSupport/Scripts/Tabs/TabIconDefaultButtonTMPro.cs
+  uploadId: 711971

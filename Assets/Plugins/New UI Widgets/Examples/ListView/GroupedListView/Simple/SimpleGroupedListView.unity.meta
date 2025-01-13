@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57fe5b9352eca294b88f2fb0b34e9375
+timeCreated: 1615728811
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/GroupedListView/Simple/SimpleGroupedListView.unity
+  uploadId: 711971

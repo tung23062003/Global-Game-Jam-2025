@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c088f3388c96e8f43a1c8f2fce56856c
+labels:
+- Uiwidgets
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Obsolete/Utilites.cs
+  uploadId: 711971

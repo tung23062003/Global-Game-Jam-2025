@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 877f619f4d057c647989bef35b682ffe
+labels:
+- Uiwidgets
+- Paginator
+- Pagination
+- UiwidgetsScrollRectNumericPaginatorPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ScrollRectNumericPaginator.prefab
+  uploadId: 711971

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1ba99db46696f4047a217651ab1291f5
+timeCreated: 1604598323
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/Events/ListViewItemBaseEvent.cs
+  uploadId: 711971

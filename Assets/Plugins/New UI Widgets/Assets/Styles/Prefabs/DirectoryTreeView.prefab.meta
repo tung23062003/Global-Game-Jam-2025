@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cade409af259034385ed018b97fa86f
+labels:
+- UiwidgetsPrefab
+- DirectoryTreeView
+- UiwidgetsDirectoryTreeViewPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/DirectoryTreeView.prefab
+  uploadId: 711971

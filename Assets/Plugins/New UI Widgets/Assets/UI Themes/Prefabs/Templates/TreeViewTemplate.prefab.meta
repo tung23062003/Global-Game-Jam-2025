@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74a62ca8c1cc9d549a4b8cc42ec023f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Templates/TreeViewTemplate.prefab
+  uploadId: 711971

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 435915ad8519b24418995a1e57ca434e
+timeCreated: 1605711984
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/ListViewCheckbox/ListViewCheckbox.unity
+  uploadId: 711971

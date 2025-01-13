@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6aad880eb41ae6b4b9df85d950760dca
+labels:
+- UiwidgetsPrefab
+- SpinnerFloat
+- UiwidgetsSpinnerFloatPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/SpinnerFloat.prefab
+  uploadId: 711971

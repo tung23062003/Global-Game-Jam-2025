@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75ef906bc15d7c948989d2451532e435
+labels:
+- UiwidgetsPrefab
+- DialogTemplate
+- UiwidgetsDialogTemplatePrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/DialogTemplate.prefab
+  uploadId: 711971

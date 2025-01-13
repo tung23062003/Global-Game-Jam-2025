@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45ddc55e11eff5348874db4e427a1e21
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Controls/ButtonBig.prefab
+  uploadId: 711971

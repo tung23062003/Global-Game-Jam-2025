@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb5761c865cda0a429fdf31d2a9d53c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Materials/UIRoundedCorners.mat
+  uploadId: 711971

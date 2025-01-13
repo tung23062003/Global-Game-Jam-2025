@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe465a5c68caca243bbe746a97e65f18
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Spinner/SpinnerVector3.unity
+  uploadId: 711971

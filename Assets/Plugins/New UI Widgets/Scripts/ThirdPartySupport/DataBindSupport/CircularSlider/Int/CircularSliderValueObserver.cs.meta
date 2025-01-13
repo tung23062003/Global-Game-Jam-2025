@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7b25512d2af6984dbaf7e4a176d7a3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/CircularSlider/Int/CircularSliderValueObserver.cs
+  uploadId: 711971

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2898e0d2ce5eb3449881e8d3ca26a5e2
+timeCreated: 1520699954
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/RangeSlider/Int/RangeSliderValueMinSynchronizer.cs
+  uploadId: 711971

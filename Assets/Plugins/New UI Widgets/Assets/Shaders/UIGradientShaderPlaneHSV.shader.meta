@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 924310371a4ad61468c5bd37d72c42e2
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIGradientShaderPlaneHSV.shader
+  uploadId: 711971

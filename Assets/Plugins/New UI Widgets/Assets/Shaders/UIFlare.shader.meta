@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5014734b3033b2d4c972aea2d2587422
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIFlare.shader
+  uploadId: 711971

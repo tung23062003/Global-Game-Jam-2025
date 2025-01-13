@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5143dcdd5997514b9dbd338f2a337f8
+labels:
+- UiwidgetsPrefab
+- Calendar
+- UiwidgetsCalendarPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Calendar.prefab
+  uploadId: 711971

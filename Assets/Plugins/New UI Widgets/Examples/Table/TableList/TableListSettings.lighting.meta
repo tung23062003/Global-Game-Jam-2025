@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b16511be50911d44685a0f09b26e9cd3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Table/TableList/TableListSettings.lighting
+  uploadId: 711971

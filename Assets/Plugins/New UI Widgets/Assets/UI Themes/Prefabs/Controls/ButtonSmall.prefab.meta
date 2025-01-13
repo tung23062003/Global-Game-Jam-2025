@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a775834f633d24f49abea5a17ffd0b68
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Controls/ButtonSmall.prefab
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 044285ce34a5470409e63d6724cab6b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Materials/UIBorder.mat
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad3583d68f29f1644b3256967dadc052
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Spinner/Event/SubmitEventFloat.cs
+  uploadId: 711971

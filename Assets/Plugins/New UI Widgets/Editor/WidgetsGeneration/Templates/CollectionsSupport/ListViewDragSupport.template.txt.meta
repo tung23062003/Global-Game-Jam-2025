@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2d156cfba3bf3db49ac31b927d04d4b2
+labels:
+- UiwidgetsListViewDragSupportScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/CollectionsSupport/ListViewDragSupport.template.txt
+  uploadId: 711971

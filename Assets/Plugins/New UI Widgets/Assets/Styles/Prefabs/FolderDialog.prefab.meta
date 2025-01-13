@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 053938ee2d7e3a54e97a364cff24b9f9
+labels:
+- UiwidgetsPrefab
+- FolderDialog
+- UiwidgetsFolderDialogPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/FolderDialog.prefab
+  uploadId: 711971

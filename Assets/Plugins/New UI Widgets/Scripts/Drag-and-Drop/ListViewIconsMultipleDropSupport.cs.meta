@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5236f5fb2a5b37f42bea8f4d379ec172
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Drag-and-Drop/ListViewIconsMultipleDropSupport.cs
+  uploadId: 711971

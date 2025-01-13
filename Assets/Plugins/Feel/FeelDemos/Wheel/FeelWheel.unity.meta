@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3348d597afee2d14cac482c32849c3a7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183370
+  packageName: Feel
+  packageVersion: 5.2
+  assetPath: Assets/Plugins/Feel/FeelDemos/Wheel/FeelWheel.unity
+  uploadId: 718861

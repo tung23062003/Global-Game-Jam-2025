@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 183aa0cb34acc95458397f6bab21bc73
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - versionFile: {fileID: 4900000, guid: 2f6cbbee5c60a77438de090444966d88, type: 3}
+  - Label: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TestScripts/SceneVersionNumber.cs
+  uploadId: 711971

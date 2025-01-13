@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 255d03c82bb34af4e853b6bb210ee9b2
+timeCreated: 1609605228
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ContextMenu/ContextMenu.unity
+  uploadId: 711971

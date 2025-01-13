@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b7f06aa7efa89fe4e82f5f5069d2ca6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ColorPicker/ColorPickerBlock.cs
+  uploadId: 711971

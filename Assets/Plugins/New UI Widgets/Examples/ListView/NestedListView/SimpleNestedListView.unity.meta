@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3b3a605621e0361419dedb4f3fb583a0
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/NestedListView/SimpleNestedListView.unity
+  uploadId: 711971

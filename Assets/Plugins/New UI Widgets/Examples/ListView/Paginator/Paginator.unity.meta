@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ffa08a50abaf62e4d95cd37617efbbd2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/Paginator/Paginator.unity
+  uploadId: 711971

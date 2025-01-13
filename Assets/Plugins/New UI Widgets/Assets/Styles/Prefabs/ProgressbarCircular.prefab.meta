@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3f6eab2f2d0716f4c915918123e031ac
+timeCreated: 1651352948
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ProgressbarCircular.prefab
+  uploadId: 711971

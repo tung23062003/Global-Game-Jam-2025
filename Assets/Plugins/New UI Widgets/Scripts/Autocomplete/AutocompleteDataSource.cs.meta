@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0db119b94dd5d04586cea548c5147a4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Autocomplete/AutocompleteDataSource.cs
+  uploadId: 711971

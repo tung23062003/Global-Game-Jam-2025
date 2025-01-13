@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20b6465e03fceb641b0546ef1fc5848e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Style/IStyleDefaultValues.cs
+  uploadId: 711971

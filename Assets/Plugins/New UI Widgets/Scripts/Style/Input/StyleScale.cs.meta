@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b11c6ce188f3f7f4e89367bcb5097e64
+timeCreated: 1622986740
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Style/Input/StyleScale.cs
+  uploadId: 711971

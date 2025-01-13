@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd7d0c46fd73fba4aaec60522d1c6195
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Input/SpinnerVector3.prefab
+  uploadId: 711971

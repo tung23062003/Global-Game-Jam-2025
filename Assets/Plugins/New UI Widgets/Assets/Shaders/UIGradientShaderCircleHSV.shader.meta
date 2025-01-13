@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 74fd1b414e6efae4c8b10e6efff6f5d6
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIGradientShaderCircleHSV.shader
+  uploadId: 711971

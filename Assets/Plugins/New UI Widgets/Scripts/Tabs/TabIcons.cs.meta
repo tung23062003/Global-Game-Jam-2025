@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a067d3eb130818b4db8692e54502a61e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Tabs/TabIcons.cs
+  uploadId: 711971

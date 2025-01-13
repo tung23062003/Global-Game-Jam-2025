@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5aa1ffee42420a144912156a80428d14
+labels:
+- Tooltip
+- UiwidgetsPrefab
+- UiwidgetsTooltipPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Tooltip.prefab
+  uploadId: 711971

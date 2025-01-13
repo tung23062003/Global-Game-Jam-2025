@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8242e5de432bd8b4aba2c1f166daceca
+timeCreated: 1612994687
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/ListViewFooter.unity
+  uploadId: 711971

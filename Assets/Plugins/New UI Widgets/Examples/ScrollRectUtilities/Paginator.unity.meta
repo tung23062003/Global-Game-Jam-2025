@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53f00e43ebe759940ac0b05f6b742043
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ScrollRectUtilities/Paginator.unity
+  uploadId: 711971

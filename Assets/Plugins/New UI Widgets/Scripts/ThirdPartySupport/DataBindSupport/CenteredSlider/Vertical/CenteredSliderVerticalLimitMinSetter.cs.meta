@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 04771a1e172017e4b8c754ad85142ad4
+timeCreated: 1520699792
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/CenteredSlider/Vertical/CenteredSliderVerticalLimitMinSetter.cs
+  uploadId: 711971

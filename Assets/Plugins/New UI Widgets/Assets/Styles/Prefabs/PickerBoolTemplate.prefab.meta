@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2aac450daf8f4a04caa975c96f66bb88
+labels:
+- UiwidgetsPrefab
+- PickerBool
+- UiwidgetsPickerBoolPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/PickerBoolTemplate.prefab
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b359db14a68def7468c7face08de3cec
+labels:
+- AutocompleteIcons
+- UiwidgetsPrefab
+- UiwidgetsAutocompleteIconsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/AutocompleteIcons.prefab
+  uploadId: 711971

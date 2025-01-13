@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9da49a52497bc34ca18329bbe38205d
+timeCreated: 1637863493
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/CollectionsSupport/TooltipViewer.template.txt
+  uploadId: 711971

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 928d7757bd1459b44a167e330ba371b8
+labels:
+- UiwidgetsPickerTreeViewScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Dialogs/PickerTreeView.template.txt
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e85508458347df443acf7e559e7a633b
+labels:
+- Uiwidgets
+- UiwidgetsPrefab
+- UiwidgetsDateTimePrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/DateTime.prefab
+  uploadId: 711971

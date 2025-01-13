@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e89f72c7d8f66314fb9e74a830df8f0c
+timeCreated: 1520697950
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/ListView/ListViewHeight/ListViewHeightSelectedItemsObserver.cs
+  uploadId: 711971

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df066eb981354994fb00a46114035da2
+labels:
+- RangeSliderVertical
+- UiwidgetsPrefab
+- UiwidgetsRangeSliderVerticalPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/RangeSliderVertical.prefab
+  uploadId: 711971

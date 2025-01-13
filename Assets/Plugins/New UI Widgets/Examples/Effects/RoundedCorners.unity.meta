@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b5c09a4bb2bcc9419768fa86bb52593
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Effects/RoundedCorners.unity
+  uploadId: 711971

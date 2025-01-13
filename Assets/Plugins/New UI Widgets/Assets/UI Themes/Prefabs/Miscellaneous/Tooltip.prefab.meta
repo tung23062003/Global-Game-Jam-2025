@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6aa7f508c5877747a320e47d32d226c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Miscellaneous/Tooltip.prefab
+  uploadId: 711971

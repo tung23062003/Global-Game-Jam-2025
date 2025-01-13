@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d2d3aaf9c0c48ef42a999ddc765525b8
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Combobox/KeyValueCombobox.unity
+  uploadId: 711971

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d6150fa9a5cd7554cacdf3093307e353
+timeCreated: 1603311284
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Dialog/DialogButtonCustom.cs
+  uploadId: 711971

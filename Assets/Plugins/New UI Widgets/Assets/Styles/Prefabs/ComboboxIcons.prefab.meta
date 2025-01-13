@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69b0fedd7a3abf1479ea8f001866359f
+labels:
+- ComboboxIcons
+- UiwidgetsComboboxIconsPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ComboboxIcons.prefab
+  uploadId: 711971

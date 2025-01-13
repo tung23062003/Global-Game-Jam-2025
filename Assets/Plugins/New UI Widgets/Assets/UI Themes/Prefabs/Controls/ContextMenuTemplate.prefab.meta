@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9a836208dba1ec489d4772190534a97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Controls/ContextMenuTemplate.prefab
+  uploadId: 711971

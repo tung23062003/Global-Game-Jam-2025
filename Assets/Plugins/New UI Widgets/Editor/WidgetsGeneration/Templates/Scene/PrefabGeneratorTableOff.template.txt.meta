@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bdd0860350501ce498e9e1d18ae76cd0
+labels:
+- UiwidgetsPrefabGeneratorTableOffScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Scene/PrefabGeneratorTableOff.template.txt
+  uploadId: 711971

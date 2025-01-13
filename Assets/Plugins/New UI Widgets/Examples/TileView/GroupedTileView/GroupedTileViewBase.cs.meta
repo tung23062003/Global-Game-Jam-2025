@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f38acf680e319d40bcfa13e6e3dec45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TileView/GroupedTileView/GroupedTileViewBase.cs
+  uploadId: 711971

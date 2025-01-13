@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1285115ddefade24a9968ebc92f142a0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/IO/FileListViewComponent.cs
+  uploadId: 711971

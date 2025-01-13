@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0c0d26bb90f0f5499bdf76297181500
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/FileListView.prefab
+  uploadId: 711971

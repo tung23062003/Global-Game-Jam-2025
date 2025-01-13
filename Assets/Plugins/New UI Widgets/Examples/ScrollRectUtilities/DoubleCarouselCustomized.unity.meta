@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c415d19d46e6d37439ccbee389697596
+timeCreated: 1634733644
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ScrollRectUtilities/DoubleCarouselCustomized.unity
+  uploadId: 711971

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 733416fa4f2f041439fbfa68d7083ead
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Default/Button.prefab
+  uploadId: 711971

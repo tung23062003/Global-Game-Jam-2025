@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a5e13b006c035640926e78f5f76d8de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Dialog Templates/NotifyTemplate.prefab
+  uploadId: 711971

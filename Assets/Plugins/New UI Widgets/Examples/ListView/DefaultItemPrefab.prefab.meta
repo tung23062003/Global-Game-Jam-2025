@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b8436607ca815a0469f14aa55d4ac670
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/DefaultItemPrefab.prefab
+  uploadId: 711971

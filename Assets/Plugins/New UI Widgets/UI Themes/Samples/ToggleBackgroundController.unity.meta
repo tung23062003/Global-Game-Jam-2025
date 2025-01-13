@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec071764b2bf42845a99d4612bde5828
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/UI Themes/Samples/ToggleBackgroundController.unity
+  uploadId: 711971

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c04595568c8daa1498ba8463b0a16044
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/BringToFront/BringToFront.unity
+  uploadId: 711971

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 56b2d307d1509da4ba77a49f4b4c19c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/ListView/ListViewColors/ListViewColorsSelectedItemProvider.cs
+  uploadId: 711971

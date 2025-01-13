@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67a8bb737f2a7174c9cb3c86a1262c94
+labels:
+- Uiwidgets
+- UiwidgetsPrefab
+- UiwidgetsTime12Prefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Time12.prefab
+  uploadId: 711971

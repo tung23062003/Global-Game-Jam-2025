@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7eb2270d656a2f4ba21bf5d8466db42
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/TMProSupport/Scripts/IO/FileDialogTMPro.cs
+  uploadId: 711971

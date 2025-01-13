@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01f246c9c1c05614d955fbd6e1928123
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/ListViewInt.prefab
+  uploadId: 711971

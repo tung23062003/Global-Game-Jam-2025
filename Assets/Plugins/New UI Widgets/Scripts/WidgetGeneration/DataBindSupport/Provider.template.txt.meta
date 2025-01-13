@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4e4861ccc130ae94a905a2be03776d50
+labels:
+- UiwidgetsProviderScriptTemplate
+timeCreated: 1520685705
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/WidgetGeneration/DataBindSupport/Provider.template.txt
+  uploadId: 711971

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2dd278e62ab05cd4987361449caae2c9
+timeCreated: 1615480821
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Listeners/DeselectListener.cs
+  uploadId: 711971

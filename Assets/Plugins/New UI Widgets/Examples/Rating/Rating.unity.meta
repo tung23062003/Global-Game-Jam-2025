@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 754a9a3a820dc28469acbf8c16973645
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Rating/Rating.unity
+  uploadId: 711971

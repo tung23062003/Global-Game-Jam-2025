@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f02897f2d0c1b304eb375f9c6eab62f4
+labels:
+- ColorsList
+- UiwidgetsColorsListPrefab
+- UiwidgetsPrefab
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ColorsList.prefab
+  uploadId: 711971

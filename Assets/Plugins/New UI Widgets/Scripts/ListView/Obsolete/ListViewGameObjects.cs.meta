@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bbb85c8d5b3288340b72a49cc4f75bb5
+labels:
+- Uiwidgets
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/Obsolete/ListViewGameObjects.cs
+  uploadId: 711971

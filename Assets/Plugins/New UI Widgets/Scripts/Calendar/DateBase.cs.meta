@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfd124d6677f66b4899750c92ad88935
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Calendar/DateBase.cs
+  uploadId: 711971

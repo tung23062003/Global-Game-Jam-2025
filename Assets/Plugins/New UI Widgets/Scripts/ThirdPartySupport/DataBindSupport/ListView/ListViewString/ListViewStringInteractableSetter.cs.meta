@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b4095b2f363f8844bcd5e4c3b46002f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/ListView/ListViewString/ListViewStringInteractableSetter.cs
+  uploadId: 711971

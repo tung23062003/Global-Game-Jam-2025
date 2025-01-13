@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ae3aa5bc231067349aebda6420a0b18c
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ToDoList/ToDoListView.unity
+  uploadId: 711971

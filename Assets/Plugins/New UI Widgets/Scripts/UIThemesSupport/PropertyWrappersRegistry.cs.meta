@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bab2cf5ac1dec3d44a1f3ff8feaaa494
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/UIThemesSupport/PropertyWrappersRegistry.cs
+  uploadId: 711971

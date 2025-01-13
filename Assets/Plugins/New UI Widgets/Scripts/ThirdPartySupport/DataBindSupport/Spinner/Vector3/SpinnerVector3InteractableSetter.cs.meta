@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c9a5f3919d968145806c0feb3d72d31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/Spinner/Vector3/SpinnerVector3InteractableSetter.cs
+  uploadId: 711971

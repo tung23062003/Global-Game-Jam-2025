@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1826b659990fb39419258e8f9dce97dc
+timeCreated: 1630431776
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Drag-and-Drop/Terrain/DragTerrain.asset
+  uploadId: 711971

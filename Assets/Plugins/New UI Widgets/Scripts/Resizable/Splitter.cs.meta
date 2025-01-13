@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1b6c8c3e3690eeb49912951674216737
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cursors: {instanceID: 0}
+  - CursorTexture: {instanceID: 0}
+  - DefaultCursorTexture: {instanceID: 0}
+  - PreviousObject: {instanceID: 0}
+  - NextObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Resizable/Splitter.cs
+  uploadId: 711971

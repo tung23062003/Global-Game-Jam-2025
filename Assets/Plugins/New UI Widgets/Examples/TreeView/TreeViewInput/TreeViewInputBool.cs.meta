@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1e8e2438b45b95f4da80b43c77335ab2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/TreeView/TreeViewInput/TreeViewInputBool.cs
+  uploadId: 711971

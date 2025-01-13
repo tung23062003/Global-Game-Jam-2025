@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 09e59b3873284784293d32faf413c357
+labels:
+- UiwidgetsTestScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/Test.template.txt
+  uploadId: 711971

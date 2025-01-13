@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 248765803c67b8b4fa6589a3d0f7bc47
+timeCreated: 1520699955
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/RangeSlider/Int/RangeSliderLimitMinSetter.cs
+  uploadId: 711971

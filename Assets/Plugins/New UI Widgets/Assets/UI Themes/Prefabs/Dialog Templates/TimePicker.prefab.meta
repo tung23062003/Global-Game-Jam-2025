@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51618d88aae3a3f428beffa49e6b49bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Dialog Templates/TimePicker.prefab
+  uploadId: 711971

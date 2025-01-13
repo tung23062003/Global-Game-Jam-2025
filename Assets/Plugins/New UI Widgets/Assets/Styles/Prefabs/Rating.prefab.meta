@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c19978fb0a16b92419716cc93b016290
+labels:
+- Rating
+- UiwidgetsPrefab
+- UiwidgetsRatingPrefab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/Rating.prefab
+  uploadId: 711971

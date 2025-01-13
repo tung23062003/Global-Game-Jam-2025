@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ec0093c15408434ab12d1926dda1ede
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Default/InputField.prefab
+  uploadId: 711971

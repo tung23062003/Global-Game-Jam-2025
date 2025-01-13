@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6536b9e20fbec774693056dda62e7a27
+timeCreated: 1603322347
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIRipple.shader
+  uploadId: 711971

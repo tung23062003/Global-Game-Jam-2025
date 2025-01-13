@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 877cac43818c2dc4a964f26e5f6fa266
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Switch/Switch.cs
+  uploadId: 711971

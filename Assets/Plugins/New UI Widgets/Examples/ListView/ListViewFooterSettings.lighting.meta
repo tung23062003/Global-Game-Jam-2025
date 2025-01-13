@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 005f8689ee7cafb458faa5123b5e0081
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/ListViewFooterSettings.lighting
+  uploadId: 711971

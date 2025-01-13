@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e92f28de7df52c246a989a927f46f8e9
+labels:
+- ScaleVertical
+- UiwidgetsPrefab
+- UiwidgetsScaleVerticalPrefab
+timeCreated: 1622996795
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Styles/Prefabs/ScaleVertical.prefab
+  uploadId: 711971

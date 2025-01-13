@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: df6f8e36f338764479dbc0c04f94a649
+timeCreated: 1520699987
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ThirdPartySupport/DataBindSupport/RangeSlider/Float/RangeSliderFloatValueMinProvider.cs
+  uploadId: 711971

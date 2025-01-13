@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae4f97ee5c478804cb16f19192df85c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Default/Scroll
+    View.prefab
+  uploadId: 711971

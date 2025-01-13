@@ -1,0 +1,1967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!-- Generated file, do not modify, your changes will be overwritten (use AssetPostprocessor.OnGeneratedCSProject) -->
+  <PropertyGroup>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{060A7E98-3F10-65C3-658F-25A8B488A62D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>MoreMountains.Tools</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>UNITY_6000_0_23;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_AMD;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;PLATFORM_USES_EXPLICIT_MEMORY_MANAGER_INITIALIZER;PLATFORM_SUPPORTS_WAIT_FOR_PRESENTATION;PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;UITHEMES_INSTALLED;UIWIDGETS_TMPRO_SUPPORT;UIWIDGETS_INSTALLED;MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED;DOTWEEN;MM_INPUTSYSTEM;MM_URP;MM_UGUI2;MM_UI;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169;USG0001</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169;USG0001</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <UnityProjectGenerator>Package</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>2.0.22</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorStyle>Legacy</UnityProjectGeneratorStyle>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityVersion>6000.0.23f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\unityplastic.dll" />
+    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\log4netPlastic.dll" />
+    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll" />
+    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll" />
+    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
+    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
+    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\UIClasses\MMDebugMenuRadioButton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyPicker\MMPropertyReceiver.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringVector3.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPreventPassingThrough.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_LookAt.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_PlayerDebugInput.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\_Common\Scripts\FeelDemosInstructions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkVector4.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_DepthOfField_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_FloatingText.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPreventPassingThrough3D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCinemachine\MMCinemachineZone\MMCinemachineZone2D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyPicker\MMPropertyPicker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMPeriodicExecution.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMAutoFocus.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_RotatePositionAround.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMVFX\Scripts\MMPanningTexture.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\VisualEffectGraph\Feedbacks\MMF_VisualEffectSetProperty.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMTilemaps\MMTilemapBoolean.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineImpulse.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\TransformController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringVector2.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMHelpers.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector4Component.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuSliderEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Feedbacks.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Particles.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMOpenURL.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineOrthographicSizeShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringColorAdjustmentsContrast_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPAlpha.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundControlEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMFaceDirection.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSMPlaylist\MMSMPlaylistManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\Legacy\MMFeedbacks.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMMaths.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingTemperature.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchAxis.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachinePriorityListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSoundControl.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPositionRecorder.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMEvents\MMGameEventListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMFilmGrainShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkInt.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_Light2D_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioMixerSnapshotTransition.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsAdvancedFloatDemo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMChannels\MMChannel.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Tabs\MMDebugMenuTabManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMVector4Extensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorPerlinNoiseGround.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMRectTransformExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMInputSequenceRecorder.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMPSBToUIConverter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_PlayerControl.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMObjectBounds.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringSquashAndStretch.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMDebugLogCommandArgumentCountAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementRules.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitVisible.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCurves\Plotter\MMPlotterGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringSpriteColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringAnimatorSpeed.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringWhiteBalanceTemperature_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMOrbitalCamera.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\CardsUI\Scripts\FeelCardsUIStackButton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMCoroutine.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMGhostCamera\MMGhostCamera.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMSliderStep.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethodJson.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_PaniniProjection_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMEmitterReceiver\MMEmmiterReceiver.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMSquashAndStretch.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchRepositionableJoystick.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMStayInPlace.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenu.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SquashAndStretchSpring.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\LightController.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\Snake.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMRotationShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingTint.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerSettings.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringCameraOrthographicSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterLowPass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_TimescaleModifier.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioSourcePitchShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMDebugOnScreenConsole.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Broadcast.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringMotionBlurShutterAngle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMRuntimeParticleControl.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Tabs\MMDebugMenuTabContents.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringWhiteBalanceTint_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTextureScale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMTilemapGenerator\MMTilemapGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringVignetteIntensity_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_ColorGrading.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineImpulseClear.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Demos\MMObservable\MMObservableDemoObserverAutoSleep.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\MMFloatingText\MMFloatingTextSpawner.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCurves\Plotter\MMPlotter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMSimpleObjectPooler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_Bloom_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMActivationOnStart.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMMotionBlurShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMConditionalActivation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitStylesheet.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_DepthOfField_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMLayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMTweenType.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMLookAtShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_ImageAlpha.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMOnMouse.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMAnimationParameter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMColors.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitOpacity.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMPlaylist\MMPlaylist.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMAnimationModifier.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Pause.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\VisualEffectGraph\Feedbacks\MMF_VisualEffect.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMDictionaryExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMViewportEdgeTeleporter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMRandomBoundsInstantiator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Blink.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMVision\MMConeOfVision.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Tactical\Scripts\Tactical.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPText.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioSourcePitch.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMLayers.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMHiddenAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMPlatformActivation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_NVPreset.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSingletons\MMReferencedScriptableObject.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_InstantiateObject.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemosURP\Strike\Scripts\Strike.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMAnimatorExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_LensDistortion.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\IMMPersistent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPCharacterSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Authorizations\MMFeedbacksAuthorizations.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMUI\MMProgressBar.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkVector2.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitBackgroundColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitImageTint.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_ColorAdjustments_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMDropdownAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\Legacy\MMFeedbacksEnabler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ImageTextureScale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMApplicationQuit.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_PositionSpring.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMSequence.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerSettingsSO.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector2Component.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMProgressBarDemoAuto.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringDepthOfFieldFocusDistance.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_FilmGrain_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemCheckbox.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringVignetteIntensity_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformSizeDelta.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringAudioSourceVolume.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMColorAdjustmentsShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsVector2Demo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringAudioSourcePitch.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemosURP\Strike\Scripts\StrikeBall.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPLineSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_LensDistortion_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringVignetteCenter_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPLineSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_NVClip.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringLightIntensity.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Tabs\MMDebugMenuTab.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterLowPassShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPerformance\MMSpeedTest.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitFontSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_Player.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMUI\MMFader.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMTransformExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_PositionShake.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObservable\MMObservable.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPathMovement\MMPathMovement.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringVignetteColor_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Rigidbody2D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringDebug.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformOffset.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringVignetteColor_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\SnakeFoodSpawner.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\GettingStartedTutorial\Scripts\GettingStartedTutorialHeroReference.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMControlsTestInputManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CanvasGroupBlocksRaycasts.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitBoolBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\MMLineRendererCircle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMCameraExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringChromaticAberrationIntensity_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitScale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Graphic.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchFollowerJoystick.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMAudioSourceSequencer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMDepthOfFieldShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAI\AITransition.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringLightColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPWordSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMMovement.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMColorExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMLoot\MMLoot.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformAnchor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInput\MMAutoInputModule.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Events.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_Vignette.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMGetFocusOnEnable.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMLensDistortionShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLink.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMBloomShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringWhiteBalanceTint_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMDepthOfFieldShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringPaniniProjectionDistance_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPFontSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMLight2DShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMCameraAspectRatio.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMDebug.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Helpers\MMSceneLoadingTextProgress.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioSourceStereoPan.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_GlobalPPVolumeAutoBlend.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMTime\MMCooldown.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMBlink.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkit.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementDisplayItem.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringColorAdjustmentsSaturation_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_ShaderController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMTilemaps\MMTilemapCleaner.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMFloatExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerSound.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMInspectorButtonBarAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMFlash.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPDilate.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPTextReveal.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_PaniniProjection_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorRandomWalk.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ScaleSpring.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMParallaxUI.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMRadialProgressBar.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMChromaticAberrationShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMObjectPool.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_WhiteBalance_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterHighPassShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMHealthBar.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioSource.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMLoot\MMLootTable.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_PlayerChain.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSingletons\MMPersistentHumbleSingleton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Looper.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringFloatComponent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemButton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMBoundsExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethodBinaryEncrypted.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_FloatController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ImageMaterial.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMAnimatorMirror.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Helpers\MMURPHelpers.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSMPlaylist\MMSMPlaylist.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethods.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_RotationSpring.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ImageTextureOffset.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitBorderColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineCameraShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringPaniniProjectionDistance_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioSourceVolumeShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorRandomWalkAvoider.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMGameObjectExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMSerializableDictionary.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Helpers\MMHDRPHelpers.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMReorderableList\ReorderableArray.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMAim.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformPivot.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_DepthOfField.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_LooperStart.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMReadOnlyWhenPlayingAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMVision\MMConeOfVision2D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMChannelMixerShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\BezierLineRenderer\MMBezierLineRenderer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemValue.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerPlayOptions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAI\AIBrain.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringMotionBlurIntensity_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MMFeedbacksDemo\Scripts\DemoButton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringVector2.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringImageAlpha.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAI\AIDecision.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMOnPointer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMString.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringChromaticAberrationIntensity_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMTimedActivation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraShake.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_LineRenderer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMSpriteRendererShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAI\AIAction.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsComparisonDemo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_HoldingPause.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringVignetteIntensity.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCinemachine\MMCinemachineZone\MMCinemachineZone3D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\Legacy\MMFeedback.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMSequencer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Flicker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMRadioSignal\MMRadioSignal.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMFeedbacksShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerTrackEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMWhiteBalanceShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineClippingPlanesShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Rotation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTimeManager\MMTimeManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAI\AIState.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMAutoFocus_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuButtonEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterHighPass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemTitle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraClippingPlanesShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Bounce\Scripts\BounceRocks.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMChromaticAberrationShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMCameraFog.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Managers\MMSceneLoadingAntiSpill.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\AudioAnalyzer\MMAudioAnalyzer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMNavMeshAreaMaskAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMTriggerAndCollisionFilter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMBackgroundColorAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuCheckboxEventListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTextureOffset.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMMotionBlurShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMScene.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitVector2Base.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMSpawnAroundTester.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorPath.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SetActive.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMVignetteShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkBool.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_LensDistortion_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraZoom.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMPersistentBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\MMFloatingText\MMFloatingText.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPParagraphSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Wheel\Scripts\Wheel.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSoundData.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMAutoExecution.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Image.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSaveLoad.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPerformance\MMFPSCounter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMScrollRectExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ShaderGlobal.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineFieldOfViewShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringFloat.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMBloomShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMLayermaskExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Tabs\MMDebugMenuDebugTab.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchJoystick.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\SelectionBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkString.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterEchoShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMRequiresConstantRepaintAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_LoadScene.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitText.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemosHDRP\Falcon\Scripts\Falcon.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_TextColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringMMTimeScale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMUIToolkit.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\FloatController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Helpers\MMLoadScene.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemText.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMColorAdjustmentsShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringVector4.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Helpers\MMGlobalPostProcessingVolumeAutoBlend.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringLensDistortionIntensity_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSound.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_NVContinuous.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMTilemaps\MMTilemapShadow.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMRadioSignal\MMRadioSignalAudioAnalyzer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMRandomInstantiator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Fog.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMExposureShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsDemoManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMRadioSignal\MMRadioSignalGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\UIClasses\MMDebugMenuSwitch.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitFloatBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringBloomIntensity_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringDefinition.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringVignetteCenter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Helpers\MMPostProcessingHelpers.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringRectTransformPosition.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMInputExecution.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMInformationAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPTextColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RadioSignal.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbacksInspectorColors.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringRotationAround.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringRectTransformSizeDelta.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AnimatorSpeed.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMPaniniProjectionShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMTilemaps\MMTilemapGridRenderer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMRagdoller.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerTrackFadeEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMChangeFogColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMConditionAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\_Common\Scripts\FeelDemosNextDemoButtonInput.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringComponentBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_Vignette_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\UIClasses\MMDebugMenuSpriteReplace.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Helpers\MMGlobalPostProcessingVolumeAutoBlend_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMDebugController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_Haptics.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadTester.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Bounce\Scripts\BounceManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMObjectPooler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_DebugLog.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Material.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMStateMachine\MMStateMachine.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_Bloom_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringCameraFieldOfView.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringPosition.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMSoundSequencer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringColorComponent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringScale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPhysics\MMRigidbodyInterface.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringRotation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMMonoBehaviour.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringColorAdjustmentsSaturation_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Helpers\MMSceneLoadingImageProgress.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMBloomShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_UnloadScene.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMColorGradingShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkFloat.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMCursorVisible.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMSpawnAround.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_PlayerEnabler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineZoom.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringImageColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbackTiming.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Barbarians\Scripts\Barbarian.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Demos\MMDebugMenu\MMDebugMenuTestClass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMHiddenPropertiesAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPFontSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugTouchDisplay.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitBorderRadius.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMScreenshot.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMUI\MMFaderDirectional.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMInterval.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMAudioListener\MMAudioListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\MMSoundManager\Scripts\PlaylistDemo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMInspectorButtonAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMTwoSidedUI.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_DestinationTransform.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Brass\Scripts\FeelBrass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMPersistenceDataStructures.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorRandom.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMSwipeZone.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMTransformRandomizer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerAllSoundsControl.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_WhiteBalance_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMSceneName.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMScaleShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyPicker\MMPropertyEmitter.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsFloatDemo.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\SnakeBodyPart.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_FreezeFrame.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMParentingOnStart.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Commands\MMDebugMenuCommands.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundFadeEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMColorAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPCountTo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMTweenDefinitions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraZoom.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ScaleShake.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMEnumConditionAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuCheckboxEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringVector4.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraFieldOfView.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ChromaticAberration_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsVector3Demo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\Legacy\MMFeedbackNVSettings.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMVisibleParticle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Flash.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\UIToolkitFeedbacksDemo\Scripts\UIToolkitDemo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPWordSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Duck\Scripts\Duck.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraFieldOfViewShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerTrackFade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMTilemaps\MMTilemap.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMDepthOfFieldShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraOrthographicSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AnimatorPlayState.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbacksCoroutine.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMVignetteShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPerformance\MMFPSUnlock.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Text.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPCountToLong.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringColorAdjustmentsContrast_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_CanvasGroup.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_GlobalPPVolumeAutoBlend_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMReadOnlyAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Rigidbody.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\SquashAndStretch\Scripts\FeelSquashAndStretchCarController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbacksHelpers.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\_Common\Scripts\FeelDemosInputHelper.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMDontDestroyOnLoad.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMWiggle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMRequiresConstantRepaintOnlyWhenPlayingAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_BroadcastProxy.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_Exposure_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitTransformOrigin.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterReverbShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsDemoSlider.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_TextFontSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Brass\Scripts\FeelBrassGroundGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMAspectRatioSafeZones.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Animation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_DebugComment.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorFull.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPhysics\MMRigidbodyCenterOfMass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MMFeedbacksDemo\Scripts\DemoPackageTester.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGizmos\MMGizmo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachinePriorityBrainListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMRadioBroadcaster.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_TextureScale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_FilmGrain_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_NVEmphasis.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMListExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitColorBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethodBinary.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMChannelMixerShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AnimationCrossfade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMDelayParticles.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSingletons\MMPersistentSingleton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Light.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMLensDistortionShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MMFeedbacksDemo\Scripts\DemoGhost.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\MMFloatingText\MMFloatingTextMeshPro.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorPerlinNoise.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethod.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringImageFillAmount.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\ObjectPool\MMMiniObjectPooler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGyroscope\MMGyroscope.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMAnimationCurves.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterDistortionShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMLoot\MMLootTableGameObjectSO.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_TextureOffset.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\MMRadio\Legacy\MMFeedbackBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ColorAdjustments_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringVector3.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingHueShift.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingSaturation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMTime.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitTextColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Managers\MMAdditiveSceneLoadingManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_MaterialSetProperty.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMInput.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemSlider.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMLensDistortionShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Shakers\MMPostProcessingMovingFilter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMPersistent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethodJsonEncrypted.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMPlaylist\MMPlaylistRemote.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ParticlesInstantiation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringShaderController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Enable.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Collider.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPOutlineWidth.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterReverb.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkQuaternion.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMExecutionOrderAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMConsole.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Playlist.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMRectExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMLightShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMAutoDestroyParticleSystem.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SetParent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuButtonEventListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMOffsetAnimation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Demos\MMObservable\MMObservableDemoObserver.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_ChromaticAberration_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMSelectionBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSoundFade.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Barbarians\Scripts\BarbarianEnemy.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMTween.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_Feedback.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMFollowTarget.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Wiggle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringColorAdjustmentsHueShift_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerAllSoundsControlEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMCountdown.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementDisplayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMGUI.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPSoftness.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitTranslate.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Scale.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCinemachine\MMGyroParallax\MMGyroParallax.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\MMRadio\MMF_FeedbackBase.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMTriggerAndCollision.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementList.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\SnakeFood.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringDepthOfFieldFocusDistance_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringWhiteBalanceTemperature_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPAlpha.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchButton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMWhiteBalanceShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Position.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_DebugBreak.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ReferenceHolder.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMEvents\MMEventManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPSoftness.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringVignetteCenter_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievement.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_ChannelMixer_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_NVControl.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioSourceVolume.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_ImageFill.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraOrthographicSizeShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Sound.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMApplicationPlatformActivation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\SerializedMMAchievementManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMVignetteShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingContrast.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCinemachine\MMCinemachineZone\MMCinemachineZone.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringLensDistortionIntensity.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_PPMovingFilter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerTrackControl.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMSceneViewIcon.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPCharacterSpacing.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMVector3Extensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMGameEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineTransition.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\MMSequencer\Scripts\MMSequencerDemoManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbacksEvents.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitRotate.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_RotationShake.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMUIFollowMouse.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\MMLineRendererDriver.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Property.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMFeedbacksSequencer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringColorAdjustmentsHueShift_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterEcho.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuSliderEventListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringMotionBlurIntensity_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Letters\Scripts\LettersDemoManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMTilemapGenerator\MMTilemapGeneratorLayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMProperty.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMPaniniProjectionShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineImpulseSource.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchControls.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMRendererSortingLayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMVectorAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitBorderWidth.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ImageRaycastTarget.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SpriteRenderer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMAutoRotate.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerTrackVolumeSlider.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPreventPassingThrough2D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMSignal.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringBloomIntensity.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_MotionBlur_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMImage.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitClass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringChromaticAberrationIntensity.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMPositionShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\ShaderController.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMCircularList.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringLensDistortionIntensity_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPOutlineColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_ChromaticAberration.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_FeedbackAttributes.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMRadioReceiver.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMInspectorGroupAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraShakerRotation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMUI\MMFaderRound.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_TrailRenderer.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsCellMovementDemo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringVignetteColor.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorRandomWalkGround.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringDepthOfFieldFocalLength_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioSourceStereoPanShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringFloat.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\ObjectPool\MMMiniPoolableObject.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMBillboard.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMVector2Extensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkVector3.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_Vignette_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPDilate.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMMultipleObjectPooler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundPlayEvent.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMFilmGrainShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMRendererExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPathMovement\MMPath.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterDistortion.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Destroy.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMPersistenceManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMToggleActive.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemChoices.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMGeometry.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMAudioEvents\MMAudioEvents.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMArray.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Demos\MMObservable\MMObservableDemoSubject.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringLightRange.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MMFeedbacksDemo\Scripts\MMFDependencyInstaller.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_MotionBlur_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMTriggerFilter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_GraphicCrossFade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerAudioPool.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_VideoPlayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMFade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Helpers\MMCinemachineHelpers.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMRagdollerIgnore.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraClippingPlanes.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMArrayExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbackTargetAcquisition.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineFreeLookZoom.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuData.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSingletons\MMSingleton.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SquashAndStretch.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringBloomIntensity_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMAnimationCurveGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMSceneRestarter.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMDebugLogCommandAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMRaycastTarget.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector3Component.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Skybox.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ChannelMixer_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringClampSettings.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Blob\Scripts\Blob.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\MMAutoOrderInLayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMChromaticAberrationShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Fade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMReorderableList\Attributes\ReorderableAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMSerializedPropertyExtensions.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Bounce\Scripts\BounceFeedbacks.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MMFeedbacksDemo\Scripts\DemoBall.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_Bloom.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMTimedDestruction.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCurves\Plotter\MMPlotterAxis.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Collider2D.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMPoolableObject.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Managers\MMSceneLoadingManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMTrailRendererSortingLayer.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMStopMotionAnimation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMShufflebag.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Plugins\Feel\FeelDemos\UIToolkitFeedbacksDemo\VisualTrees\FeelUIToolkitFeedbacksDemoVisualTree.uxml" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\MoreMountains.Feedbacks.TextMeshPro.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\MoreMountains.Feedbacks.NiceVibrations.asmref" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMSkybox.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMZTestAlways.shader" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\VisualEffectGraph\MoreMountains.Feedbacks.VisualEffectGraph.asmref" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMControlledEmission.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Core\MMReorderableList\reorderable-list-licence.txt" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMAdvancedToon.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMStandardEmission.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMToon.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMWorldspace.shader" />
+    <None Include="Assets\Plugins\Feel\FeelDemos\UIToolkitFeedbacksDemo\Stylesheets\FeelUIToolkitFeedbacksDemoExtraStylesheet.uss" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMRipple.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMStochastic.shader" />
+    <None Include="Assets\Plugins\Feel\FeelDemos\MoreMountains.Feel.Demos.asmref" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMVFX.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMZTestAlwaysAdditive.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMBoilingLine.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Demos\MMTween\Fonts\Lato\OFL.txt" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMUINoAlpha.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMVision\MMConeOfLight.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Foundation\MoreMountains.Tools.Foundation.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\MoreMountains.Feedbacks.HDRP.asmref" />
+    <None Include="Assets\Plugins\Feel\FeelDemosURP\MoreMountains.Feel.Demos.URP.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\MoreMountains.Feedbacks.asmref" />
+    <None Include="Assets\Plugins\Feel\MMTools\Core\MoreMountains.Tools.asmdef" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\MoreMountains.Feedbacks.UIToolkit.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\Authorizations\MoreMountains.Feedbacks.Authorizations.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MoreMountains.Feedbacks.Demos.asmref" />
+    <None Include="Assets\Plugins\Feel\FeelDemos\UIToolkitFeedbacksDemo\Stylesheets\FeelUIToolkitFeedbacksDemoStylesheet.uss" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\MoreMountains.Feedbacks.PostProcessing.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\MoreMountains.Feedbacks.URP.asmref" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MM2DReflection.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MMShaders\MMMatcap.shader" />
+    <None Include="Assets\Plugins\Feel\MMTools\Accessories\MoreMountains.Tools.Accessories.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\MoreMountains.Feedbacks.MMTools.asmref" />
+    <None Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\MoreMountains.Feedbacks.Cinemachine.asmref" />
+    <None Include="Assets\Plugins\Feel\FeelDemosHDRP\MoreMountains.Feel.Demos.HDRP.asmref" />
+    <None Include="Assets\Plugins\Feel\MMTools\Demos\MoreMountains.Tools.Demos.asmref" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.AccessibilityModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ContentLoadModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ContentLoadModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.CrashReportingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.DSPGraphModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.DirectorModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.GIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.GameCenterModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GraphicsStateCollectionSerializerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.GraphicsStateCollectionSerializerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.GridModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.HierarchyCoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.HierarchyCoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.HotReloadModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ImageConversionModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputForUIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputForUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.LocalizationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.MarshallingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.MarshallingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.MultiplayerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.MultiplayerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.Physics2DModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PropertiesModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.PropertiesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.ShaderVariantAnalyticsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.ShaderVariantAnalyticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.StreamingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.TilemapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityConnectModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityCurlModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityCurlModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.VirtualTexturingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.AccessibilityModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.AccessibilityModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.AdaptivePerformanceModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.AdaptivePerformanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.BuildProfileModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.BuildProfileModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.CoreBusinessMetricsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreBusinessMetricsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.CoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.DeviceSimulatorModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.DeviceSimulatorModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.DiagnosticsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.DiagnosticsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.EditorToolbarModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.EditorToolbarModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.EmbreeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.EmbreeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.GIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GraphViewModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphViewModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GraphicsStateCollectionSerializerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.GraphicsStateCollectionSerializerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GridAndSnapModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.GridAndSnapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.GridModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.GridModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.MultiplayerModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.MultiplayerModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Physics2DModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.Physics2DModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.PhysicsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.PresetsUIModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.PresetsUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.PropertiesModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.PropertiesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.QuickSearchModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.QuickSearchModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SafeModeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SafeModeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SceneTemplateModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneTemplateModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SceneViewModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SceneViewModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.ShaderFoundryModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.ShaderFoundryModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SketchUpModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SketchUpModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SpriteMaskModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SpriteMaskModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SpriteShapeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SpriteShapeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.SubstanceModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.SubstanceModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TerrainModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.TerrainModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TextCoreFontEngineModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreFontEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TextCoreTextEngineModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextCoreTextEngineModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TextRenderingModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TilemapModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.TilemapModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.TreeModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.TreeModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIAutomationModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIAutomationModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIBuilderModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIBuilderModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsSamplesModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.UIElementsSamplesModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UmbraModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.UmbraModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UnityConnectModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.VFXModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.VFXModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.VideoModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.VideoModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.XRModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Graphs">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.WebGL.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.YamlDotNet">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\unityplastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\log4netPlastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Apple.Extensions.Common">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.Apple.Extensions.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.Types">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Android.Gradle">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="netstandard">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.AppContext.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Buffers.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.Concurrent.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.NonGeneric.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Collections.Specialized.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ComponentModel.TypeConverter.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Console.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Data.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Contracts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Debug.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Process.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.StackTrace.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Tools.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.TraceSource.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Diagnostics.Tracing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Drawing.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Dynamic.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.Calendars.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Globalization.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Compression.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.FileSystem.Watcher.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.IsolatedStorage.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.MemoryMappedFiles.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.Pipes.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Expressions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Parallel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Linq.Queryable.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Memory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Http.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.NameResolution.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.NetworkInformation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Ping.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Requests.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Security">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Security.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.Sockets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebHeaderCollection.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebSockets.Client.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Net.WebSockets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Numerics.Vectors.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ObjectModel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.DispatchProxy">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.DispatchProxy.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Emit">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.ILGeneration">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.ILGeneration.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Emit.Lightweight">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Emit.Lightweight.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Reflection.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.Reader.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.ResourceManager.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Resources.Writer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Handles.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.InteropServices.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Numerics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Runtime.Serialization.Xml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Claims.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Csp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.Principal.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Security.SecureString.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.Encoding.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.Encoding.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Text.RegularExpressions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Overlapped.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Tasks.Parallel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Thread.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.ThreadPool.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Threading.Timer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.ValueTuple.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.ReaderWriter.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XDocument.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XmlDocument.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XmlSerializer.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XPath.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netstandard\System.Xml.XPath.XDocument.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\mscorlib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Drawing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.IO.Compression.FileSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Numerics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Runtime.Serialization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ServiceModel.Web.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Transactions">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Transactions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Web.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Windows.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Linq.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Serialization">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Lofelt.NiceVibrations.csproj">
+      <Project>{6EDC8A6B-2110-AF24-4AA4-9E0E7C1D0969}</Project>
+      <Name>Lofelt.NiceVibrations</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b7e2660debeebd41837b27e8d178d1f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Templates/AutocompleteTemplate.prefab
+  uploadId: 711971

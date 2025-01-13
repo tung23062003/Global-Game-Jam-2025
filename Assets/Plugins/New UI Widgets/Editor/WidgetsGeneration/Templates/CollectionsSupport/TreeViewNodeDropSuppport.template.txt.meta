@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 29de95043b6c02343a3982912e4a3d9b
+labels:
+- UiwidgetsTreeViewNodeDropSupportScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/CollectionsSupport/TreeViewNodeDropSuppport.template.txt
+  uploadId: 711971

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a10ad236a00a64341b39a36fc8ad1e6a
+labels:
+- UiwidgetsTreeViewNodeDragSupportScriptTemplate
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Editor/WidgetsGeneration/Templates/CollectionsSupport/TreeViewNodeDragSupport.template.txt
+  uploadId: 711971

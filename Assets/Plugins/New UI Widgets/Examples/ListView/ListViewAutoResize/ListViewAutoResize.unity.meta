@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 942a902490f617e4081d9c3e8135f0c9
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/ListView/ListViewAutoResize/ListViewAutoResize.unity
+  uploadId: 711971

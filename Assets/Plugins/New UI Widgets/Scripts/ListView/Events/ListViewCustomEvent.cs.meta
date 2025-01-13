@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8864c2246df2e144b6a7d74394331ed
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/ListView/Events/ListViewCustomEvent.cs
+  uploadId: 711971

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0915d69c85dc4cd4c8298735f245c16f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Controls/TextMeshProPaginator.prefab
+  uploadId: 711971

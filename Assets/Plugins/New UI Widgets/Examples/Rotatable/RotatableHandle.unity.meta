@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa6469bb5a6d46e4eae0975b552d2a5e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Rotatable/RotatableHandle.unity
+  uploadId: 711971

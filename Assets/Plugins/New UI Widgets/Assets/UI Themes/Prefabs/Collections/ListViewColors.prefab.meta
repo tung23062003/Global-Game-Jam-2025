@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e46946bdf8468db44aef4ebc91020e0f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/UI Themes/Prefabs/Collections/ListViewColors.prefab
+  uploadId: 711971

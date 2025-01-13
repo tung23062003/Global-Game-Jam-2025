@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85f5e2330290137468e9b3b0d406a673
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Notify/NotifyInfoBase.cs
+  uploadId: 711971

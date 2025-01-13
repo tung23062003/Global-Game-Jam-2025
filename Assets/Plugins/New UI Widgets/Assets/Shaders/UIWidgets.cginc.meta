@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 99b5b4e3a757d564ab851521ae2f489b
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Assets/Shaders/UIWidgets.cginc
+  uploadId: 711971

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 77b02d2f0d08d354f9e6ed27ea13a677
+timeCreated: 1620128428
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Scripts/Connector/ConnectorType.cs
+  uploadId: 711971

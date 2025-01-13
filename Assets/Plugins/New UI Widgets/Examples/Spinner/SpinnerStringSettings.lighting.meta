@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf79de828f1d60f4588da6ce389db6bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27226
+  packageName: New UI Widgets
+  packageVersion: 1.17.15f1
+  assetPath: Assets/Plugins/New UI Widgets/Examples/Spinner/SpinnerStringSettings.lighting
+  uploadId: 711971
