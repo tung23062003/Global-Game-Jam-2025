@@ -56,10 +56,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\unityplastic.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\log4netPlastic.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -78,8 +74,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_FloatingText.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPreventPassingThrough3D.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCinemachine\MMCinemachineZone\MMCinemachineZone2D.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyPicker\MMPropertyPicker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMPeriodicExecution.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyPicker\MMPropertyPicker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMAutoFocus.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_RotatePositionAround.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkColor.cs" />
@@ -90,23 +86,23 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\TransformController.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringVector2.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMHelpers.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector4Component.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Particles.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuSliderEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Feedbacks.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Particles.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector4Component.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMOpenURL.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineOrthographicSizeShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringColorAdjustmentsContrast_URP.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPAlpha.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundControlEvent.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMFaceDirection.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPAlpha.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMFaceDirection.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSMPlaylist\MMSMPlaylistManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\Legacy\MMFeedbacks.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMMaths.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingTemperature.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchAxis.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachinePriorityListener.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchAxis.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSoundControl.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPositionRecorder.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMEvents\MMGameEventListener.cs" />
@@ -125,8 +121,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_PlayerControl.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMObjectBounds.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringSquashAndStretch.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMDebugLogCommandArgumentCountAttribute.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementRules.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMDebugLogCommandArgumentCountAttribute.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitVisible.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCurves\Plotter\MMPlotterGenerator.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringSpriteColor.cs" />
@@ -142,8 +138,8 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMEmitterReceiver\MMEmmiterReceiver.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMSquashAndStretch.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchRepositionableJoystick.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMStayInPlace.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenu.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMStayInPlace.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SquashAndStretchSpring.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\LightController.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\Snake.cs" />
@@ -155,16 +151,16 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_TimescaleModifier.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioSourcePitchShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMDebugOnScreenConsole.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Broadcast.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringMotionBlurShutterAngle.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Broadcast.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMRuntimeParticleControl.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Tabs\MMDebugMenuTabContents.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringWhiteBalanceTint_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTextureScale.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMTilemapGenerator\MMTilemapGenerator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineImpulseClear.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringVignetteIntensity_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_ColorGrading.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineImpulseClear.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Demos\MMObservable\MMObservableDemoObserverAutoSleep.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\MMFloatingText\MMFloatingTextSpawner.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCurves\Plotter\MMPlotter.cs" />
@@ -189,8 +185,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Pause.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\VisualEffectGraph\Feedbacks\MMF_VisualEffect.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMDictionaryExtensions.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMViewportEdgeTeleporter.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMRandomBoundsInstantiator.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMViewportEdgeTeleporter.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Blink.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMVision\MMConeOfVision.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Tactical\Scripts\Tactical.cs" />
@@ -224,8 +220,8 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAchievements\Scripts\MMAchievementManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector2Component.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMProgressBarDemoAuto.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringDepthOfFieldFocusDistance.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_FilmGrain_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringDepthOfFieldFocusDistance.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemCheckbox.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringVignetteIntensity_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformSizeDelta.cs" />
@@ -244,18 +240,18 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterLowPassShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPerformance\MMSpeedTest.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitFontSize.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMTransformExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_Player.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMUI\MMFader.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMTransformExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_PositionShake.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObservable\MMObservable.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPathMovement\MMPathMovement.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringVignetteColor_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPathMovement\MMPathMovement.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObservable\MMObservable.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Rigidbody2D.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringDebug.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\SnakeFoodSpawner.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformOffset.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringVignetteColor_HDRP.cs" />
-    <Compile Include="Assets\Plugins\Feel\FeelDemos\Snake\Scripts\SnakeFoodSpawner.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\GettingStartedTutorial\Scripts\GettingStartedTutorialHeroReference.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMControlsTestInputManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CanvasGroupBlocksRaycasts.cs" />
@@ -340,8 +336,8 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorRandomWalkAvoider.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMGameObjectExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMSerializableDictionary.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Helpers\MMHDRPHelpers.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMReorderableList\ReorderableArray.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Helpers\MMHDRPHelpers.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMAim.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_RectTransformPivot.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_DepthOfField.cs" />
@@ -383,8 +379,8 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTimeManager\MMTimeManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAI\AIState.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMAutoFocus_URP.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuButtonEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterHighPass.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuButtonEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemTitle.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraClippingPlanesShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Bounce\Scripts\BounceRocks.cs" />
@@ -398,12 +394,12 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuCheckboxEventListener.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTextureOffset.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMMotionBlurShaker_HDRP.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMScene.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitVector2Base.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMSpawnAroundTester.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitVector2Base.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMScene.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorPath.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SetActive.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMVignetteShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SetActive.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkBool.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_LensDistortion_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMCameraZoom.cs" />
@@ -411,8 +407,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\MMFloatingText\MMFloatingText.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPParagraphSpacing.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Wheel\Scripts\Wheel.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSoundData.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMAutoExecution.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSoundData.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Image.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_MMSoundManagerSaveLoad.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMPerformance\MMFPSCounter.cs" />
@@ -476,8 +472,8 @@
     <Compile Include="Assets\Plugins\Feel\FeelDemos\_Common\Scripts\FeelDemosNextDemoButtonInput.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringComponentBase.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_Vignette_HDRP.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\UIClasses\MMDebugMenuSpriteReplace.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Helpers\MMGlobalPostProcessingVolumeAutoBlend_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\UIClasses\MMDebugMenuSpriteReplace.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMDebugController.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\MMF_Haptics.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadTester.cs" />
@@ -498,8 +494,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringColorAdjustmentsSaturation_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Helpers\MMSceneLoadingImageProgress.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMBloomShaker.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_UnloadScene.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Shakers\MMColorGradingShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_UnloadScene.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkFloat.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMCursorVisible.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMInstantiation\MMSpawnAround.cs" />
@@ -536,21 +532,21 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_FreezeFrame.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMParentingOnStart.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Commands\MMDebugMenuCommands.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundFadeEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMColorAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundFadeEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPCountTo.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMTweenDefinitions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraZoom.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_ScaleShake.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMEnumConditionAttribute.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraFieldOfView.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuCheckboxEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Feedbacks\MMF_SpringVector4.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraFieldOfView.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ChromaticAberration_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsVector3Demo.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ChromaticAberration_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\NiceVibrations\Feedbacks\Legacy\MMFeedbackNVSettings.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMVisibleParticle.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Flash.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMVisibleParticle.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\UIToolkitFeedbacksDemo\Scripts\UIToolkitDemo.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringTMPWordSpacing.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Duck\Scripts\Duck.cs" />
@@ -572,15 +568,15 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Rigidbody.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\SquashAndStretch\Scripts\FeelSquashAndStretchCarController.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbacksHelpers.cs" />
-    <Compile Include="Assets\Plugins\Feel\FeelDemos\_Common\Scripts\FeelDemosInputHelper.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMDontDestroyOnLoad.cs" />
+    <Compile Include="Assets\Plugins\Feel\FeelDemos\_Common\Scripts\FeelDemosInputHelper.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMWiggle.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMRequiresConstantRepaintOnlyWhenPlayingAttribute.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_BroadcastProxy.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_Exposure_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitTransformOrigin.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterReverbShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Feedbacks\MMF_Exposure_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Springs\Scripts\FeelSpringsDemoSlider.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterReverbShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_TextFontSize.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Brass\Scripts\FeelBrassGroundGenerator.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMAspectRatioSafeZones.cs" />
@@ -599,11 +595,11 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Base\MMF_UIToolkitColorBase.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMSaveLoadManagerMethodBinary.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMChannelMixerShaker_HDRP.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AnimationCrossfade.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMDelayParticles.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AnimationCrossfade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMLensDistortionShaker_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSingletons\MMPersistentSingleton.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Light.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMLensDistortionShaker_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\Demos\MMFeedbacksDemo\Scripts\DemoGhost.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\MMFloatingText\MMFloatingTextMeshPro.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMGridGenerators\MMGridGeneratorPerlinNoise.cs" />
@@ -612,12 +608,12 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Springs\MMSpringImageFillAmount.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\ObjectPool\MMMiniObjectPooler.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGyroscope\MMGyroscope.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMLoot\MMLootTableGameObjectSO.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ColorAdjustments_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMAnimationCurves.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioFilterDistortionShaker.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMLoot\MMLootTableGameObjectSO.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_TextureOffset.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\MMRadio\Legacy\MMFeedbackBase.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ColorAdjustments_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringVector3.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingHueShift.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringColorGradingSaturation.cs" />
@@ -642,9 +638,9 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMExecutionOrderAttribute.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMConsole.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Playlist.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMRectExtensions.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMLightShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMAutoDestroyParticleSystem.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMLightShaker.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMRectExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_SetParent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\Events\MMDebugMenuButtonEventListener.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMOffsetAnimation.cs" />
@@ -704,8 +700,8 @@
     <Compile Include="Assets\Plugins\Feel\FeelDemos\MMSequencer\Scripts\MMSequencerDemoManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbacksEvents.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\UIToolkit\Feedbacks\MMF_UIToolkitRotate.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_RotationShake.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMUIFollowMouse.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_RotationShake.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\MMLineRendererDriver.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Property.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Sequencing\Scripts\MMFeedbacksSequencer.cs" />
@@ -715,8 +711,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringMotionBlurIntensity_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Letters\Scripts\LettersDemoManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMProcedural\MMTilemapGenerator\MMTilemapGeneratorLayer.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMProperty.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Shakers\MMPaniniProjectionShaker_URP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMProperty.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Feedbacks\MMF_CinemachineImpulseSource.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMControls\MMTouchControls.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMRendererSortingLayer.cs" />
@@ -735,8 +731,8 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Springs\MMSpringChromaticAberrationIntensity.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMPositionShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMPropertyControllers\ShaderController.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMCircularList.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Springs\MMSpringLensDistortionIntensity_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMCircularList.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPOutlineColor.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\PostProcessing\Feedbacks\MMF_ChromaticAberration.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMF_Player\MMF_FeedbackAttributes.cs" />
@@ -752,21 +748,21 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Springs\MMSpringDepthOfFieldFocalLength_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Shakers\MMAudioSourceStereoPanShaker.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringFloat.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMVector2Extensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\ObjectPool\MMMiniPoolableObject.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCamera\MMBillboard.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMVector2Extensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMRadio\MMProperty\MMPropertyLink\MMPropertyLinkVector3.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_Vignette_URP.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPDilate.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMMultipleObjectPooler.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\TextMeshPro\Feedbacks\MMF_TMPDilate.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\Events\MMSoundManagerSoundPlayEvent.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMFilmGrainShaker_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMRendererExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMMovement\MMPathMovement\MMPath.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_AudioFilterDistortion.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Destroy.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMPersistenceManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMToggleActive.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSaveLoad\MMPersistenceManager.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Destroy.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMDebugMenu\Scripts\MMDebugMenuItems\MMDebugMenuItemChoices.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMGeometry.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMAudioEvents\MMAudioEvents.cs" />
@@ -778,12 +774,12 @@
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_MotionBlur_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMActivation\MMTriggerFilter.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_GraphicCrossFade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMFade.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAudio\MMSoundManager\MMSoundManagerAudioPool.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_VideoPlayer.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMFade.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Helpers\MMCinemachineHelpers.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMRagdollerIgnore.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_CameraClippingPlanes.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMRagdollerIgnore.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMArrayExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Core\MMFeedbackTargetAcquisition.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\Cinemachine\Shakers\MMCinemachineFreeLookZoom.cs" />
@@ -794,15 +790,15 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMTween\MMAnimationCurveGenerator.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMUtilities\MMSceneRestarter.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMAttributes\MMDebugLogCommandAttribute.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMRaycastTarget.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\Components\MMSpringVector3Component.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMGUI\MMRaycastTarget.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Skybox.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\URP\Feedbacks\MMF_ChannelMixer_URP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Springs\Core\MMSpringClampSettings.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Blob\Scripts\Blob.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\MMAutoOrderInLayer.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMChromaticAberrationShaker_HDRP.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\MMTools\Feedbacks\MMF_Fade.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacksForThirdParty\HDRP\Shakers\MMChromaticAberrationShaker_HDRP.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMSprites\MMAutoOrderInLayer.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMReorderableList\Attributes\ReorderableAttribute.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMExtensions\MMSerializedPropertyExtensions.cs" />
     <Compile Include="Assets\Plugins\Feel\FeelDemos\Bounce\Scripts\BounceFeedbacks.cs" />
@@ -812,9 +808,9 @@
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMCurves\Plotter\MMPlotterAxis.cs" />
     <Compile Include="Assets\Plugins\Feel\MMFeedbacks\MMFeedbacks\Feedbacks\MMF_Collider2D.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMObjectPool\MMPoolableObject.cs" />
-    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Managers\MMSceneLoadingManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Accessories\MMParticles\MMTrailRendererSortingLayer.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Foundation\MMAnimation\MMStopMotionAnimation.cs" />
+    <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMSceneLoading\Scripts\Managers\MMSceneLoadingManager.cs" />
     <Compile Include="Assets\Plugins\Feel\MMTools\Core\MMHelpers\MMShufflebag.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1344,6 +1340,10 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
       <Private>False</Private>
@@ -1364,8 +1364,20 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
@@ -1376,8 +1388,16 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
@@ -1386,30 +1406,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiEditor">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">

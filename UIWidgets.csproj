@@ -56,10 +56,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\unityplastic.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\log4netPlastic.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -71,8 +67,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\DateTimeScroller.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Combobox\ComboboxIconsItemComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelper\SelectableHelperHighlightedSprite.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleSupportHeaderCell.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Vertical\CenteredSliderVerticalValueMinSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleSupportHeaderCell.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\DialogButtonCustom.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutPosition.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Calendar\CalendarDateBaseOtherMonth.cs" />
@@ -95,9 +91,9 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Attributes\DataBindFieldAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Listeners\ResizeListener.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Vertical\CenteredSliderVerticalValueMaxSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\ICollectionItemChanged.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\DirectoryTreeView\DirectoryTreeViewSelectedNodeObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Unity\StyleSupportUnityButton.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\ICollectionItemChanged.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\TimeBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Rating\RatingColorMaxSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Buttons\SplitButton.cs" />
@@ -109,8 +105,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Listeners\Subscription.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TileView\TileViewScrollRectFitter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Calendar\CalendarDateProvider.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Spinner\Event\OnChangeEventInt.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabsIcons.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Spinner\Event\OnChangeEventInt.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\DialogButtonComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\TimeSpinnerBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemResizeEvent.cs" />
@@ -119,25 +115,25 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Accordion\AccordionHighlight.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\IInputFieldExtended.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Effects\RoundedCornersX4.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Layout\LayoutPlaceholder.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewInt\ListViewIntComponentBase.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Layout\LayoutPlaceholder.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Layout\LayoutUtilities.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\PickerStringV2.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\Events\PointerUnityEvent.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemAxisEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Vertical\CenteredSliderVerticalValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Table\TableHeaderCellInfo.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemAxisEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\DrivesListViewComponentBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Calendar\CalendarDateBaseOutOfRangeDate.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\ResizableHandles.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Spinner\SpinnerBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\TracksView\Timeline\TimelineCompactSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Vector3\SpinnerVector3InteractableSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\ResizableHandles.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Obsolete\ListViewCustomHeight.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\MenuItemMoveEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\MenuItemView.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Progressbar\ProgressbarIndeterminate.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\CalendarDate.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Progressbar\ProgressbarIndeterminate.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\InputField\InputFieldAdapterValueSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeGraph\TreeGraphComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\DirectoryTreeView\DirectoryTreeViewSelectedNodeProvider.cs" />
@@ -156,10 +152,10 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Text\ITextProxy.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SnapGrid\SnapLines.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Hierarchy\HierarchyToggle.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Calendar\CalendarDateSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Autocomplete\AutocompleteStringCombobox.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Int\CircularSliderValueObserver.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Calendar\CalendarDateSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Selectable\ISelectableMarkerTarget.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Int\CircularSliderValueObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Rating\RatingInteractableSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Listeners\ClickListener.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleCombobox.cs" />
@@ -183,8 +179,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeView\Events\NodeToggleEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Helpers\EnumHelper.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\IInputFieldProxy.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Sidebar\SlideBlock.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleSupportCalendar.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Sidebar\SlideBlock.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Float\CircularSliderFloatMaxValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Attributes\DataBindSupportAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewEvent.cs" />
@@ -193,14 +189,14 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Rating\RatingValue2ColorSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\HotKeyCode.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CircularSlider\CircularSliderFloat.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Float\RangeSliderFloatValueMinProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ColorPicker\ColorPickerColorSynchronizer.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Float\RangeSliderFloatValueMinProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\IListViewCallbacks.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\ObjectSlidingHorizontalHelper.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CircularSlider\CircularSliderBase.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabsCustom.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\TrackBackground.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewColors\ListViewColorsSelectedItemsSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabsCustom.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SnapGrid\SnapGridBase.LineX.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TileView\TileView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Dialog\DialogInfoTMPro.cs" />
@@ -220,8 +216,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldExtended.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelperList\SelectableHelperListNormalColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Unity\StyleDropdown.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\IObservable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ITemplatable.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\IObservable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\DirectoryTreeView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Int\SpinnerValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Obsolete\ListViewComponentPoolObsolete.cs" />
@@ -252,8 +248,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\Attributes\GeneratorIgnoreAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseScrollSensitivitySetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\MenuItemTemplate.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Accordion\AccordionItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Collections\ListViewHighlightedBackgroundColor.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Accordion\AccordionItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Progressbar\LoadingAnimationValueMaxSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Core\IUpgradeable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\IListUpdatable.cs" />
@@ -264,16 +260,16 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Attributes\DomainReloadAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\References\PrefabsMenuGenerated.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\DialogButton.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\Enums\PaginatorRounding.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseIsInteractableSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Updater\IUpdatable.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\Enums\PaginatorRounding.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Connector\ConnectorType.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseIsInteractableSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Updater\Updater.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tooltips\TooltipPosition.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewEnum\ListViewEnumSelectedItemObserver.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\LayoutElementInfo.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\IColorPickerBlock.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Obsolete\IItemHeight.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\LayoutElementInfo.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\ListView\ListViewIconsItemComponentTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Effects\LinesDrawerBaseLineColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\ListViewCustomDragSupport.cs" />
@@ -283,10 +279,10 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Core\IValidateable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Text\TextAdapterfontSizeSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\TimePicker.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Obsolete\IResizableItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SliderScale\RangeSliderScaleFloat.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Collections\ListViewDefaultColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\IListViewTemplateSelector.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Obsolete\IResizableItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewComponentEnumerator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\LayoutElementsGroup.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Vertical\CenteredSliderVerticalUseValueLimitsSetter.cs" />
@@ -296,8 +292,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Localization\Localization.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleAutocomplete.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Progressbar\ProgressbarDeterminateTMPro.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SliderScale\ScaleMark.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\IO\FileListViewComponentTMPro.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SliderScale\ScaleMark.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatValueSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\FolderDialog.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\DirectoryTreeView\DirectoryTreeViewSelectedNodesSetter.cs" />
@@ -316,8 +312,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Fast\StyleFastProgressbarIndeterminate.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\DataBindSupport\DataBindGenerator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\PickerOptionalOK{TValue,TPicker}.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Converter\ConverterTMProMessage.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Switch\Switch.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Converter\ConverterTMProMessage.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\Draggable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Tabs\TabIconButtonTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\Events\SelectEvent.cs" />
@@ -327,10 +323,10 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Autocomplete\AutocompleteTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListView\ListViewSelectedItemObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Sidebar\Sidebar.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewString\ListViewHeight.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewString\ListViewStringSelectedItemsProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SliderScale\RangeSliderScaleBase{T}.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemClick.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewString\ListViewHeight.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Combobox\ComboboxTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Autocomplete\AutocompleteString.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\DataBindSupport\DataBindEvents.cs" />
@@ -367,8 +363,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Calendar\CalendarDateBaseSelectedDayBackground.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Obsolete\ListViewGameObjects.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerHexBlock.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Converter\ConverterTMProFieldData.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\Hex\OffsetCoordinates.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Converter\ConverterTMProFieldData.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollRectBlock.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\TrackForm.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeView\TreeViewCustom.cs" />
@@ -392,8 +388,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\RangeSliderScaleFloat\RangeSliderScaleFloatFormatterSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Progressbar\ProgressbarValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\DistanceLines\DistanceLine.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\UtilitiesAlign.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\Resizable.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\UtilitiesAlign.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\FileListView\FileListViewSelectedItemObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Converter\ConverterTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Int\SpinnerStepSetter.cs" />
@@ -426,8 +422,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutEnums.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Progressbar\ProgressbarDeterminateValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Unity\StyleSupportToggle.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Helpers\InstanceID.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseUnscaledTimeSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Helpers\InstanceID.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\PoolEnumerator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Misc\StyleSidebar.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleCircularSlider.cs" />
@@ -444,8 +440,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewInt\ListViewIntSelectedItemsObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerRGBPalette.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewHeight\ListViewHeightSelectedItemsProvider.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldNull.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Misc\StyleAudioPlayer.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldNull.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Dialogs\StyleSupportDialog.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\InputField\InputFieldExtendedAdapterValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollBlock\ScrollBlockResizer.cs" />
@@ -502,25 +498,25 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tooltips\TooltipSettings.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Templates.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SnapGrid\SnapGridBase.LineY.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\SplitterMaxSize.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Progressbar\LoadingAnimation.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Editor.Conditions\EditorConditionObjectNotNullAttribute.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\SplitterMaxSize.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\CalendarDayOfWeekBase.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollRectPaginator.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatMinSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemPointerEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Converter\ConverterInputField.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatMinSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollRectPaginator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\Hex\HexCoordinatesDebug.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerABlock.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemPointerEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeView\TreeViewComponentBase{TItem}.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Vector3\SpinnerVector3ValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabsScroll.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\ListViewIconsDragSupport.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldProxy.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Cursor\UICursorSettings.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleSupportColorPicker.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\WaitForSecondsCustom.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\IO\FileDialogTMPro.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldProxy.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewInt\ListViewIntSelectedItemObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\DataDragSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\Hex\HexCoordinates.cs" />
@@ -537,8 +533,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Misc\StyleCanvas.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\HotKeyCodeExtensions.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\DataForm.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Rating\RatingValueSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutEllipseScroll.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Rating\RatingValueSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Misc\StylePaginator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPicker.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Editor.Conditions\NestedInspectorAttribute.cs" />
@@ -555,8 +551,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Float\RangeSliderFloatValueMaxObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\LayoutByName.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\DragSupportHandle.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SnapGrid\SnapGrid.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleCollections.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SnapGrid\SnapGrid.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderValueMinObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\LayoutDropIndicator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\ModalHelper.cs" />
@@ -564,8 +560,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabButtonComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Rotatable\RotatableHandle.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabIcons.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TrackFormBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Switch\SwitchIsOnSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TrackFormBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutCompactOrGrid.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Combobox\ComboboxBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerRange.cs" />
@@ -594,8 +590,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Layouts\TrackLayoutAnyLine.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Sidebar\SlideBlockHandle.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\HotKey.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\PickerInt.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Combobox\ComboboxInputField.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\PickerInt.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\References\PrefabsTemplates.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Editor.Conditions\EditorConditionFloatAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\FileListViewPathComponent.cs" />
@@ -617,9 +613,9 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\DragOneDirection.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewString\ListViewStringSelectedItemProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Async\IAwaitable{T}.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\Event\SplitterResizeEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TracksDataViews.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Spinner\Event\SubmitEventFloat.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Resizable\Event\SplitterResizeEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ColorPicker\ColorPickerColorProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\Events\CalendarDateEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\Tabs.cs" />
@@ -635,8 +631,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\ListViewIconsMultipleDropSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\TreeView\TreeViewSelectedNodeProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\ListUpdater.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\SliderScale\SliderScaleFormatSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TrackDataViewBase.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\SliderScale\SliderScaleFormatSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeView\TreeViewCustomToggleAnimation.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Connector\ConnectorBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelperList\SelectableHelperListPressedSprite.cs" />
@@ -667,18 +663,18 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Progressbar\ProgressbarEnums.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderLimitMaxSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewFocusEvent.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Text\TextAdapteralignmentSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\RangeSlider\RangeSliderFloat.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Text\TextAdapteralignmentSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\CenteredSliderScale\CenteredSliderScaleNegativeStepRateSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Calendar\CalendarDayOfWeekTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemMove.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewString\ListViewStringDataSourceSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewString\ListViewString.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Collections\TreeViewComponentBaseNodeClosed.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\IMenuSubscriber.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewString\ListViewString.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewComponentPool.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatValueObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Collections\ListViewDefaultBackgroundColor.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatValueObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\Events\ColorAlphaChangedEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Unity\StyleScrollbar.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewColors\ListViewColorsSelectedItemsProvider.cs" />
@@ -688,8 +684,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\Size.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\IObservableList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewColors\ListViewColorsSelectedItemsSynchronizer.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayout.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\Enums\PaginatorPagePosition.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayout.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Accordion\AccordionHighlightActiveBackgroundColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\DropIndicatorBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\TreeView\TreeViewSelectedNodesObserver.cs" />
@@ -702,8 +698,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollRectRestrictedDrag.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewType\ListViewTypeRectangle.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Connector\SingleConnector\SingleConnectorLineSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\UtilitiesEditor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewEnum\ListViewEnumSelectedItemsObserver.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\UtilitiesEditor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\UtilitiesColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\TreeViewCustomNodeDropSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TrackDialogBase.cs" />
@@ -714,11 +710,11 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\CalendarMultipleDates.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewItemSelect.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\DragListener.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\IO\FileListViewPathComponentTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Text\TextAdapter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\IO\FileListViewPathComponentTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\DialogActions.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseAlwaysCenterSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelperList\SelectableHelperListSprite.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseAlwaysCenterSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Rating\RatingColorMinSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\Attributes\GeneratorAutocompleteAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Autocomplete\AutocompleteCombobox.cs" />
@@ -735,16 +731,16 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Rating\RatingColorMin.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Slider\SliderScrollStepSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ListViewPaginator.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Style.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\DraggableEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Rotatable\RotatableEvent.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Style.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListView\ListViewSelectedItemProvider.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\PropertyWrappersRegistry.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\Events\MoveEvent.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListView\ListViewSelectedItemProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Calendar\TimeBaseTimeProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\Compatibility.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\FileListView\FileListViewSelectedItemsObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\DataDialog.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\PropertyWrappersRegistry.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\OnDragKeepSelected.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewDefaultItemAspectRatio.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelperList\SelectableHelperListHighlightedSprite.cs" />
@@ -752,8 +748,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewType\ListViewTypeEllipse.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabButtonBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Combobox\ComboboxIconsItemComponentTMPro.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\RangeSlider\RangeSliderBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Horizontal\CenteredSliderValueMaxSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\RangeSlider\RangeSliderBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Attributes\DataBindEventAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Obsolete\UIWidgetsBehaviour.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\Scale\ScaleShowMinValueSetter.cs" />
@@ -775,8 +771,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Cursor\UICursor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Notify\ShowArguments.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\InputField\InputFieldExtendedAdapterinteractableSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Table\ResizableHeader.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Layout\LayoutElementData.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Table\ResizableHeader.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Obsolete\ComparisonCompare.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\CalendarDayOfWeek.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\MenuItem.cs" />
@@ -797,8 +793,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Core\UIBehaviourInteractable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\DirectoryTreeViewComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Connector\LineBuilder.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Editor.Conditions\EditorConditionEnumAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\StableSort.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Editor.Conditions\EditorConditionEnumAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\GroupedList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SnapGrid\SnapGrid\SnapGridStepSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelperList\SelectableHelperListHighlightedColor.cs" />
@@ -806,8 +802,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Groupable\GroupableEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeView\TreeViewItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewString\ListView.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Selectable\SelectableHelperList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerHSVPalette.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Selectable\SelectableHelperList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Calendar\CalendarDateObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\IMovableToCache.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Autocomplete\AutocompleteDataSource.cs" />
@@ -841,9 +837,9 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutUtilites.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\MenuInstance.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleScale.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewCustomEvent.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Core\MaskableGraphicInitiable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldAdapter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Core\MaskableGraphicInitiable.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\Events\ListViewCustomEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Vertical\CenteredSliderVerticalWholeNumberOfStepsSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Vertical\CenteredSliderVerticalLimitMaxSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tabs\TabIconButton.cs" />
@@ -852,9 +848,9 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\ConnectorBaseSprite.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleDropIndicator.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Layouts\TrackLayoutAnyLineCompact.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\LayoutSwitcher\LayoutSwitcherEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleButton.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Float\RangeSliderFloatValueMaxSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\LayoutSwitcher\LayoutSwitcherEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleSupportTable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Dialogs\StyleDialog.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Notify\NotifyInfoBase.cs" />
@@ -894,10 +890,10 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\TableGeneratorHelper.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\DropRectTransform.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleSupportButtonBig.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\SceneGeneratorHelper.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TrackDataFormBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\FileListView\FileListViewDataSourceSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SnapGrid\SnapGrid\SnapGridSnapBorderInnerSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\WidgetGeneration\SceneGeneratorHelper.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\SliderScale\SliderScaleFormatterSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\IHideable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewHeight\ListViewHeightSelectedItemObserver.cs" />
@@ -909,15 +905,15 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\FileListViewComponentBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewString\ListViewStringSelectedItemObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListView\ListViewSelectedItemsObserver.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Switch\SwitchBackgroundOnColor.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\DirectoryTreeView\DirectoryTreeViewSelectedNodesSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollBlock\ScrollBlockBase.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\DirectoryTreeView\DirectoryTreeViewSelectedNodesSynchronizer.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Switch\SwitchBackgroundOnColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerBlock.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewEnum\HighlightSource.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Effects\LinesDrawer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldListener.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewInt\ListViewIntComponent.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Effects\LinesDrawer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Horizontal\CenteredSliderLimitMaxSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewInt\ListViewIntComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\ITrackData.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleRangeSlider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Style\StyleTMPro.cs" />
@@ -941,8 +937,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Horizontal\CenteredSliderValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Cursor\CursorsDPISelector.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\DialogInfoBase.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderValueMaxSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Calendar\CalendarTMPro.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderValueMaxSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Async\IAwaitable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\BaseDragSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\FileDialog.cs" />
@@ -953,8 +949,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderValueMaxSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Calendar\TimeBaseTimeObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseDragSensitivitySetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\RangeSliderScaleFloat\RangeSliderScaleFloatFormatSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewString\ListViewStringSelectedItemsSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\RangeSliderScaleFloat\RangeSliderScaleFloatFormatSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Connector\ConnectorPosition.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatStepSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Table\ResizableHeaderDragCell.cs" />
@@ -1004,13 +1000,13 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\Scale\ScaleMarksSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\ICollectionChanged.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewIcons\ListViewIconsItemDescription.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\TimeScroller.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tooltips\TooltipViewer.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\TimeScroller.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Calendar\DatePicker.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SliderScale\Scale\ScaleShowMaxValueSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tooltips\TooltipStringViewer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Drag-and-Drop\ListViewIconsMultipleDragSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerImagePalette.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tooltips\TooltipStringViewer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Int\CircularSliderMinValueSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollButton.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\DraggableHandle.cs" />
@@ -1025,8 +1021,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Effects\RippleEffectEndColor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Obsolete\Utilites.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\ListView\ListViewInt\ListViewIntComponentTMPro.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Progressbar\ProgressbarDeterminate.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Float\SpinnerFloatMaxSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Progressbar\ProgressbarDeterminate.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\DialogButtonComponentBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Async\Awaiter{T}.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\Hex\HexLayoutBuilder.cs" />
@@ -1071,8 +1067,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Attributes\DomainReloadExcludeAttribute.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\IO\FileListView\FileListViewSelectedItemProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Int\CircularSliderStepSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewEnum\ListViewEnumSelectedItemProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Editor.Conditions\EditorConditionBoolNotAttribute.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewEnum\ListViewEnumSelectedItemProvider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Float\CircularSliderFloatValueSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollRectPageWithName.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Progressbar\ProgressbarTMPro.cs" />
@@ -1084,8 +1080,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\TreeView\TreeViewComponentTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ListView\ListViewType\ListViewTypeFixed.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\PoolEnumeratorMode.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderValueMinSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\References\DataBindTemplates.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Int\RangeSliderValueMinSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelperList\SelectableHelperListDisabledSprite.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\DrivesListViewComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Horizontal\CenteredSliderValueMinSetter.cs" />
@@ -1095,8 +1091,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Misc\StyleSupportStop.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\TreeView\TreeViewSelectedNodesSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\SelectableHelper\SelectableHelperSelectedSprite.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\ObservableListFilter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollRectUtilities\ScrollRectDragSensitivity.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\CollectionsUtilities\ObservableListFilter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Utilities\Animations.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewEnum\ListViewEnumSelectedItemsSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ScrollBlock\ScrollBlockItem.cs" />
@@ -1109,8 +1105,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Rotatable\Rotatable.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Unity\StyleUnityButton.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseDragButtonSetter.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorsList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListViewColors\ListViewColorsDataSourceSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorsList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Calendar\CalendarDateBaseDefaultDayBackground.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SliderScale\SliderScaleBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ScrollBlock\ScrollBlockBaseAllowIncreaseSetter.cs" />
@@ -1126,22 +1122,22 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\SnapGrid\SnapGridBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Fast\StyleFast.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Dialog\PickerListViewCustom.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Connector\SingleConnector.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleColorPicker.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Collections\ListViewSelectedBackgroundColor.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Connector\SingleConnector.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutStaggered.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleColorPicker.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutFlex.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Containers\StyleTabs.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\EasyLayout\EasyLayoutStaggered.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Tooltips\TooltipBase.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Draggable\DraggableSnapEvent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Float\RangeSliderFloatValueMinSynchronizer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Table\ResizableHeaderCell.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\InputField\InputFieldExtendedAdapterValueObserver.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\References\PrefabsMenu.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\ListView\ListViewStringComponentTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\TracksViewCustom.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldExtendedAdapter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\ListView\ListViewStringComponentTMPro.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\DrivesListView.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\InputField\InputFieldExtendedAdapter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ContextMenu\ContextMenu.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CenteredSlider\Horizontal\CenteredSliderStepSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\TMProSupport\Scripts\Tabs\TabIconDefaultButtonTMPro.cs" />
@@ -1173,15 +1169,15 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\ListView\ListView\ListViewDataSourceSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\SnapGrid\SnapGrid\SnapGridSnapBorderOuterSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Spinner\Spinner.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerEnums.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\Spinner\Int\SpinnerValueSynchronizer.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ColorPicker\ColorPickerEnums.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TreeView\ListNodeComparer.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Misc\StyleTooltip.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleTreeView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\IO\IOExceptionsView.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Collections\StyleTreeView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\TracksView\Timeline\TimelineScale.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Accordion\AccordionHighlightThemesDefaultBackgroundSprite.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\CircularSlider\Int\CircularSliderMaxValueSetter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Scripts\UIThemesSupport\Accordion\AccordionHighlightThemesDefaultBackgroundSprite.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\ThirdPartySupport\DataBindSupport\RangeSlider\Float\RangeSliderFloatValueMinSetter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Scripts\Style\Input\StyleSupportButtonSmall.cs" />
   </ItemGroup>
@@ -1678,6 +1674,10 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
       <Private>False</Private>
@@ -1698,8 +1698,20 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
@@ -1710,8 +1722,16 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
@@ -1720,30 +1740,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiEditor">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">

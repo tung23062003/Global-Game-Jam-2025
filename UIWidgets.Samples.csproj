@@ -56,10 +56,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\unityplastic.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\log4netPlastic.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll" />
-    <Analyzer Include="C:\Users\tungn\Downloads\Global Game Jam\Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -81,8 +77,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewCheckboxes\TestTreeViewCheckboxes.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Accordion\AccordionTestToggle.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewInput\TreeViewInputInt.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\ToDoList\ToDoListView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Drag-and-Drop\InputFieldDropSupport.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\ToDoList\ToDoListView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\GroupedListView\Simple\SimpleGroupedList.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Table\TableListV2\TableListTestV2.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\ItemResize\ListViewIconsItemComponentResize.cs" />
@@ -98,8 +94,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Table\TableRow.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\TasksView\TaskComponent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Calendar\TestDateScroller.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\Inventory\UIThemesSupport\InventoryTooltipHighlightedValueLower.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Calendar\TestDate.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\Inventory\UIThemesSupport\InventoryTooltipHighlightedValueLower.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\GroupedListView\GroupedListView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Tooltip\TutorialsTooltips.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\CenteredSliderLabel.cs" />
@@ -321,12 +317,12 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewComponentWithClick.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TileView\GroupedTileView\GroupedTileView.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\TestListViewMain.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\SmokeTest.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Table\TableListV2\TableListCellV2.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\ListViewIconsWithFilter.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\SmokeTest.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Notify\TestNotify.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TileView\GroupedTileView\GroupedPhotos.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\ListViewIconsWithFilter.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewInput\TreeViewInputColor.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TileView\GroupedTileView\GroupedPhotos.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\ListViewWithInputFields\LVInputFieldsItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Table\TableCell.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\TestListView.cs" />
@@ -373,19 +369,19 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Autocomplete\AutocompleteIconsHelper.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\ListViewSlider\ListViewSlider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewToggle\TreeViewToggleComponent.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TracksView\TrackDataDragSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TracksView\TrackView.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TracksView\TrackDataDragSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\HierarchyView\HierarchyViewDropSupport.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewSampleComponent.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\Shops\IOrderLine.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Shops\JRPGShop\TraderTreeViewNodeDropSupport.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\Shops\IOrderLine.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\TreeViewInput\TreeViewInputVector3.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Editor\TileViewSampleEditor.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\MultipleDefaultItems\TreeViewSampleComponentCountry.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\StandaloneExit.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\Table\SteamSpyData.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Editor\HarborListViewEditor.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\Table\SteamSpyData.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Shops\JRPGShop\TestTrader.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\StandaloneExit.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\LocalizationSample.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Resizable\SplitterSlider.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Progressbar\SampleProgressBar2.cs" />
@@ -397,8 +393,8 @@
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\MultipleDefaultItems\TreeViewSampleComponentContinent.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\ListViewEnum\TestEnumObsolete.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TestScripts\TestMobile.cs" />
-    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\ITreeViewSampleItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\ListView\GroupedListView\GroupedListViewSelect.cs" />
+    <Compile Include="Assets\Plugins\New UI Widgets\Examples\TreeView\ITreeViewSampleItem.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\TileView\GroupedTileViewV2\GroupedTileViewComponentEmpty.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Shops\HarborShop\HarborShop.cs" />
     <Compile Include="Assets\Plugins\New UI Widgets\Examples\Dialog\DialogTreeViewInputHelper.cs" />
@@ -926,6 +922,10 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
       <Private>False</Private>
@@ -946,8 +946,20 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.collab-proxy\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
@@ -958,8 +970,16 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
@@ -968,30 +988,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiEditor">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
